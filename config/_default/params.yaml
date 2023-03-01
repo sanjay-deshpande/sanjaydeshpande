@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: mrrobot
-  theme_night: mrrobot
+  theme_day: earth
+  theme_night: earth
   font: minimal
   font_size: L
 
