@@ -22,7 +22,7 @@ organizations:
     url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed Hardware Design, Cryptography, Post-Quantum Cryptography and Quantum Computer Security.
 
 # Interests to show in About widget
 interests:
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sanjay Deshpande is a second year Ph.D. student and a Research Associate at Computer Architecture and Security Lab, Yale University. His research interests include  efficient and secure hardware implementations of (symmetric, asymmetric, and post-quantum) cryptography algorithms and quantum computer security.
 {style="text-align: justify;"}
