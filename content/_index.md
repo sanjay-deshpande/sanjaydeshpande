@@ -16,11 +16,11 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Cryptography
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Hardware Design
           description: 100%
           icon: chart-line
           icon_pack: fas
