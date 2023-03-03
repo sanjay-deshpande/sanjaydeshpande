@@ -67,6 +67,7 @@ sections:
           date_start: '2020-10-26'
           date_end: ''
           description:
+          
         - title: Senior Security Researcher 
           company: Technology Innmovation Institute
           company_url: 'https://www.tii.ae/'
@@ -74,7 +75,8 @@ sections:
           location: UAE
           date_start: '2019-04-01'
           date_end: '2020-5-09'
-          description: 
+          description:
+          
     design:
       columns: '2'
   - block: accomplishments
