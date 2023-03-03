@@ -59,24 +59,37 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D. Student and Research Associate
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Ph.D. Student, Research Associate, and Teaching Fellow
           company: Yale University
-          company_url: 'https://www.yale.edu/'
+          company_url: ''
           company_logo: org-gc
-          location: Connecticut
-          date_start: '2020-10-26'
+          location: New Haven Connecticut
+          date_start: '2021-01-01'
           date_end: ''
-          description:
-          
-        - title: Senior Security Researcher 
-          company: Technology Innmovation Institute
-          company_url: 'https://www.tii.ae/'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
           company_logo: org-x
-          location: UAE
-          date_start: '2019-04-01'
-          date_end: '2020-5-09'
-          description:
-          
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
