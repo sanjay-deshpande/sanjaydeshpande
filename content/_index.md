@@ -79,9 +79,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * UPDATE THIS
-              * UPDATE THIS
-              * UPDATE THIS
+              * 
+              * 
+              * 
         - title: Hardware Security Researcher
           company: Technology Innovation Institute
           company_url: 'https://www.yale.edu/'
@@ -89,7 +89,7 @@ sections:
           location: Abu Dhabi, UAE
           date_start: '2019-04-01'
           date_end: '2020-07-05'
-          description: UPDATE THIS
+          description: 
     design:
       columns: '2'
   - block: accomplishments
