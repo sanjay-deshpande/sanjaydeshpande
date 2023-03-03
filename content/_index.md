@@ -66,12 +66,7 @@ sections:
           location: Connecticut
           date_start: '2020-10-26'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * UPDATE THIS
-              * UPDATE THIS
-              * UPDATE THIS
+          description:
         - title: Senior Security Researcher 
           company: Technology Innmovation Institute
           company_url: 'https://www.tii.ae/'
@@ -79,7 +74,7 @@ sections:
           location: UAE
           date_start: '2019-04-01'
           date_end: '2020-5-09'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 
     design:
       columns: '2'
   - block: accomplishments
