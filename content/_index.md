@@ -76,12 +76,7 @@ sections:
           location: New Haven, Connecticut
           date_start: '2020-10-26'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * 
-              * 
-              * 
+          description:
         - title: Hardware Security Researcher
           company: Technology Innovation Institute
           company_url: 'https://www.yale.edu/'
