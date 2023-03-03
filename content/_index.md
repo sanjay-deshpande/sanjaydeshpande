@@ -85,7 +85,7 @@ sections:
         - title: Hardware Security Researcher
           company: Technology Innovation Institute
           company_url: ''
-          company_logo: tii_logo
+          company_logo:
           location: Abu Dhabi, UAE
           date_start: '2019-04-01'
           date_end: '2020-07-05'
