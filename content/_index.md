@@ -72,7 +72,7 @@ sections:
         - title: Ph.D. Student, Research Associate, and Teaching Fellow
           company: Yale University
           company_url: ''
-          company_logo: yale_logo
+          company_logo:
           location: New Haven, Connecticut
           date_start: '2020-10-26'
           date_end: ''
