@@ -84,8 +84,8 @@ sections:
               * UPDATE THIS
         - title: Hardware Security Researcher
           company: Technology Innovation Institute
-          company_url: ''
-          company_logo:
+          company_url: 'https://www.yale.edu/'
+          company_logo: yale-logo-blue
           location: Abu Dhabi, UAE
           date_start: '2019-04-01'
           date_end: '2020-07-05'
