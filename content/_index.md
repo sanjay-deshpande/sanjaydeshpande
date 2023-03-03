@@ -63,7 +63,7 @@ sections:
           company: Yale University
           company_url: 'https://www.yale.edu/'
           company_logo: org-gc
-          location: New Haven, Connecticut
+          location: Connecticut
           date_start: '2020-10-26'
           date_end: ''
           description: |2-
@@ -76,7 +76,7 @@ sections:
           company: Technology Innmovation Institute
           company_url: 'https://www.tii.ae/'
           company_logo: org-x
-          location: Abu Dhabi, UAE
+          location: UAE
           date_start: '2019-04-01'
           date_end: '2020-5-09'
           description: Taught electronic engineering and researched semiconductor physics.
