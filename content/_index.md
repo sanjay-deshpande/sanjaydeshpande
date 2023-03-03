@@ -35,16 +35,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Hardware Design
+          description: Verilog and VHDL
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Cryptography
+          description: 
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Quantum Computer Security
+          description: 
           icon: camera-retro
           icon_pack: fas
   - block: experience
