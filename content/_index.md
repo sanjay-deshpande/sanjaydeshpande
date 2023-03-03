@@ -69,9 +69,9 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D. Student, Research Associate, and Teaching Fellow
+        - title:  Research Associate, Teaching Fellow, and Ph.D. Student
           company: Yale University
-          company_url: ''
+          company_url: 'https://www.yale.edu/'
           company_logo: yale-logo-blue
           location: New Haven, Connecticut
           date_start: '2020-10-26'
@@ -79,12 +79,20 @@ sections:
           description:
         - title: Hardware Security Researcher
           company: Technology Innovation Institute
-          company_url: 'https://www.yale.edu/'
+          company_url: 'https://www.tii.ae/'
           company_logo: tii_logo
           location: Abu Dhabi, UAE
           date_start: '2019-04-01'
           date_end: '2020-07-05'
-          description: 
+          description:
+        - title:  Research Assistant, Teaching Assistant, Lab Assitant, and Graduate Student 
+          company: George Mason University
+          company_url: 'https://www.tii.ae/'
+          company_logo: gmu_logo
+          location: Virginia, USA
+          date_start: '2014-08-15'
+          date_end: '2017-01-15'
+          description:
     design:
       columns: '2'
   - block: accomplishments
