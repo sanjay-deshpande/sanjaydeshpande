@@ -73,23 +73,23 @@ sections:
           company: Yale University
           company_url: ''
           company_logo: org-gc
-          location: New Haven Connecticut
-          date_start: '2021-01-01'
+          location: New Haven, Connecticut
+          date_start: '2020-10-26'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * UPDATE THIS
+              * UPDATE THIS
+              * UPDATE THIS
+        - title: Hardware Security Researcher
+          company: Technology Innovation Institute
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Abu Dhabi, UAE
+          date_start: '2019-04-01'
+          date_end: '2020-07-05'
+          description: UPDATE THIS
     design:
       columns: '2'
   - block: accomplishments
