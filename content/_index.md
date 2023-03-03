@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Sanjito
+      title:
       image:
-        filename: hero-academic.png
+        filename:
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
