@@ -162,9 +162,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Crytpography
+        - name: Cryptography and Hardware
           tag: Deep Learning
-        - name: Other
+        - name: Quantum Computer Security
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -186,7 +186,6 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
           - publication
         featured_only: true
     design:
