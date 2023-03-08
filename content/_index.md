@@ -31,22 +31,22 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Hardware Design
-          description: Verilog and VHDL
-          icon: r-project
-          icon_pack: fab
-        - name: Cryptography
-          description: 
-          icon: chart-line
-          icon_pack: fas
-        - name: Quantum Computer Security
-          description: 
-          icon: camera-retro
-          icon_pack: fas
+#  - block: features
+#    content:
+#      title: Skills
+#      items:
+#        - name: Hardware Design
+#          description: Verilog and VHDL
+#          icon: r-project
+#          icon_pack: fab
+#        - name: Cryptography
+#          description: 
+#          icon: chart-line
+#          icon_pack: fas
+#        - name: Quantum Computer Security
+#          description: 
+#          icon: camera-retro
+#          icon_pack: fas
   - block: experience
     content:
       title: Experience
