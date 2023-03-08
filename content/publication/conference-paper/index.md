@@ -16,12 +16,12 @@ authors:
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  - 'Co-Author'
+  - 
   - 'Equal contribution'
-  - 'Co-Author'
-  - 'Co-Author'
-  - 'Co-Author'
-  - 'Co-Author'
+  - 
+  - 
+  - 
+  - 
 
 date: '2013-07-01T00:00:00Z'
 doi: '10.46586/tches.v2022.i3.71-113'
@@ -64,10 +64,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# image:
+#  caption: ''
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
