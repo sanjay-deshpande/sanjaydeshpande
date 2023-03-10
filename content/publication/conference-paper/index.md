@@ -84,7 +84,7 @@ projects:
 slides: example
 
 
-title: 'Complete and Improved FPGA Implementation of Classic McEliece'
+title: 'second paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
