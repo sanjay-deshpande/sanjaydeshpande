@@ -188,9 +188,6 @@ sections:
         folders:
           - publication
         featured_only: true
-        folders:
-          - publication
-        featured_only: true
     design:
       columns: '2'
       view: card
@@ -242,7 +239,7 @@ sections:
         postcode: '06511'
         country: United States
         country_code: US
-      directions: 5th Floor
+      directions: 5th Floor, Dunham Lab
       office_hours:
 #        - 'Monday 10:00 to 11:00'
 #        - 'Wednesday 09:00 to 10:00'
