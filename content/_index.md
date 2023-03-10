@@ -186,7 +186,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - publication/conference_paper
         featured_only: true
     design:
       columns: '2'
