@@ -95,7 +95,6 @@ sections:
           description:
     design:
       columns: '2'
-
   - block: collection
     id: talks
     content:
@@ -106,7 +105,6 @@ sections:
     design:
       columns: '2'
       view: compact
-
   - block: collection
     id: featured
     content:
@@ -118,7 +116,6 @@ sections:
     design:
       columns: '2'
       view: card
-
   - block: collection
     content:
       title: All Publications
@@ -132,8 +129,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: citation
-	  
+      view: citation  
 #  - block: collection
 #    id: posts
 #    content:
@@ -196,8 +192,6 @@ sections:
 #        {{< gallery album="demo" >}}
 #    design:
 #      columns: '1'
-
-
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -273,5 +267,4 @@ sections:
 #          captcha: false
     design:
       columns: '2'
-
 ---
