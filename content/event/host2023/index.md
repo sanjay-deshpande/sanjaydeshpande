@@ -1,10 +1,10 @@
 ---
 title: Design of Quantum Computer Antivirus
 
-event: IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+event: IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2023)
 event_url: http://www.hostsymposium.org/
 
-location: The DoubleTree by Hilton
+location: IEEE International Symposium on Hardware Oriented Security and Trust
 address:
   street: 
   city: San Jose
@@ -22,9 +22,9 @@ date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-03-16T00:00:00Z'
 
-authors: [Sanjay Deshpande]
+authors: ['Sanjay Deshpande']
 tags: [Quantum Computer Security]
 
 # Is this a featured talk? (true/false)
@@ -60,14 +60,14 @@ url_video: ''
 #  - example
 ---
 
-#{{% callout note %}}
-#Click on the **Slides** button above to view the built-in slides feature.
-#{{% /callout %}}
+# {{% callout note %}}
+# Click on the **Slides** button above to view the built-in slides feature.
+# {{% /callout %}}
 
-#Slides can be added in a few ways:
+# Slides can be added in a few ways:
 
-#- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+# - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-#Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+# Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of   this page.
