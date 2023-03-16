@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-01'
+date: ''
 date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-03-16'
+publishDate: '2023-03-16T00:00:00Z'
 
 authors: ['Sanjay Deshpande']
 tags: [Quantum Computer Security]
