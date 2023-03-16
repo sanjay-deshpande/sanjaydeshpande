@@ -4,7 +4,7 @@ title: Design of Quantum Computer Antivirus
 event: IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2023)
 event_url: http://www.hostsymposium.org/
 
-location: IEEE International Symposium on Hardware Oriented Security and Trust
+location: IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2023)
 address:
   street: 
   city: San Jose
@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-01T00:00:00Z'
+date: '2023-05-01'
 date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-03-16T00:00:00Z'
+publishDate: '2023-03-16'
 
 authors: ['Sanjay Deshpande']
 tags: [Quantum Computer Security]
