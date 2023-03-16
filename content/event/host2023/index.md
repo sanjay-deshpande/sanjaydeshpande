@@ -17,7 +17,7 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ''
+date: '2023-05-01T00:00:00Z'
 date_end: ''
 all_day: false
 
