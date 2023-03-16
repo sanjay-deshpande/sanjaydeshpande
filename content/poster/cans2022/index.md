@@ -1,5 +1,5 @@
 ---
-title: 'Towards an Antivirus for Quantum Computers'
+title: 'Fast and Efficient Hardware Implementation of HQC'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,8 +7,8 @@ title: 'Towards an Antivirus for Quantum Computers'
 authors:
   - Sanjay Deshpande
   - Chuanqi Xu
-  - Theodoros Trochatos
-  - Yongshan Ding
+  - Mamuri Nawan
+  - Kashif Nawaz
   - Jakub Szefer
 
 # Author notes (optional)
@@ -21,8 +21,8 @@ author_notes:
   - 
   - 
 
-date: '2022-08-09T00:00:00Z'
-doi: '10.1109/HOST54066.2022.9840181'
+date: '2022-05-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -31,27 +31,27 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+publication: Preprint
 publication_short: 
 
 abstract: 
 
 # Summary. An optional shortened abstract.
 
-tags: [Quantum Computer Security]
+tags: [Cryptography]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://caslab.csl.yale.edu/publications/deshpande2022towards.pdf'
+url_pdf: 'https://eprint.iacr.org/2022/1183.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

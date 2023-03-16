@@ -1,28 +1,20 @@
 ---
-title: 'Towards an Antivirus for Quantum Computers'
+title: 'Analysis and Inner-Round Pipelined Implementation of Selected Parallelizable CAESAR Competition Candidates'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Sanjay Deshpande
-  - Chuanqi Xu
-  - Theodoros Trochatos
-  - Yongshan Ding
-  - Jakub Szefer
+  - Kris Gaj
+
 
 # Author notes (optional)
 author_notes:
-  - 
-  - 
-  -
-  - 
-  - 
-  - 
-  - 
+ 
 
-date: '2022-08-09T00:00:00Z'
-doi: '10.1109/HOST54066.2022.9840181'
+date: '2017-08-30T00:00:00Z'
+doi: '10.1109/DSD.2017.80'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -34,14 +26,14 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+publication: In Euromicro Conference on Digital System Design (DSD 2017)
 publication_short: 
 
 abstract: 
 
 # Summary. An optional shortened abstract.
 
-tags: [Quantum Computer Security]
+tags: [cryptography]
 
 # Display this page in the Featured widget?
 featured: false
@@ -51,12 +43,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://caslab.csl.yale.edu/publications/deshpande2022towards.pdf'
+url_pdf: 'https://cryptography.gmu.edu/athena/papers/GMU_DSD_2017.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://people-ece.vse.gmu.edu/~kgaj/publications/conferences/GMU_DSD_2017_CAESAR_slides.pdf'
 url_source: ''
 url_video: ''
 
@@ -79,6 +71,6 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#slides: example
 ---
 

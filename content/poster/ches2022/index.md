@@ -1,28 +1,30 @@
 ---
-title: 'Towards an Antivirus for Quantum Computers'
+title: 'Complete and Improved FPGA Implementation of Classic McEliece'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Po-Jen Chen
+  - Tung Chou
   - Sanjay Deshpande
-  - Chuanqi Xu
-  - Theodoros Trochatos
-  - Yongshan Ding
+  - Norman Lahr
+  - Ruben Niederhagen
   - Jakub Szefer
+  - Wen Wang
 
 # Author notes (optional)
 author_notes:
+  - 'Equal contribution'
   - 
-  - 
-  -
+  - 'Equal contribution'
   - 
   - 
   - 
   - 
 
-date: '2022-08-09T00:00:00Z'
-doi: '10.1109/HOST54066.2022.9840181'
+date: '2022-09-01T00:00:00Z'
+doi: '10.46586/tches.v2022.i3.71-113'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -34,25 +36,25 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+publication: In Conference on Cryptographic Hardware and Embedded Systems (2022)
 publication_short: 
 
 abstract: 
 
 # Summary. An optional shortened abstract.
 
-tags: [Quantum Computer Security]
+tags: [cryptography]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://caslab.csl.yale.edu/publications/deshpande2022towards.pdf'
-url_code: ''
+url_pdf: 'https://eprint.iacr.org/2022/412.pdf'
+url_code: 'https://caslab.csl.yale.edu/code/pqc-classic-mceliece/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -72,13 +74,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-#  - example
+projects:
+  - example
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: example
 ---
 
