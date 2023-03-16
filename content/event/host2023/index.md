@@ -22,7 +22,7 @@ date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: '2023-03-16T00:00:00Z'
 
 authors: ['Sanjay Deshpande']
 tags: [Quantum Computer Security]
