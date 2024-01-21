@@ -8,7 +8,7 @@ last_name: Deshpande
 
 # Status emoji
 status:
-  icon: 🐱‍👤
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +22,7 @@ organizations:
     url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed Hardware Design, Cryptography, Post-Quantum Cryptography and Quantum Computer Security.
+bio: My research interests include Hardware Design, Cryptography, Post-Quantum Cryptography and Quantum Computer Security.
 
 # Interests to show in About widget
 interests:
