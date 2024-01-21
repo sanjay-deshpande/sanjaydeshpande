@@ -80,5 +80,5 @@ email: 'sanjay.deshpande@yale.edu'
 highlight_name: true
 ---
 
-Sanjay Deshpande is a second year Ph.D. student and a Research Associate at Computer Architecture and Security Lab, Yale University. His research interests include  efficient and secure hardware implementations of (symmetric, asymmetric, and post-quantum) cryptography algorithms and quantum computer security.
+Sanjay Deshpande is a third year Ph.D. candidate, a Teaching Fellow, and a Research Assiant at Computer Architecture and Security Lab, Yale University. His research interests include  efficient and secure hardware implementations of (symmetric, asymmetric, and post-quantum) cryptography algorithms and design and development of secure hardware architectures for quantum computers.
 {style="text-align: justify;"}
