@@ -13,11 +13,12 @@ address:
   country: United States
 
 summary: 
-abstract: ''
+abstract: 'The development of quantum computers has been advancing rapidly in recent years. In addition to researchers and companies building bigger and bigger machines, these computers are already being actively connected to the internet and offered as cloud-based quantum computer services. As quantum computers become more widely accessible, potentially malicious users could try to execute their code on the machines to leak information from other users, to interfere with or manipulate results of other users, or to reverse engineer the underlying quantum computer architecture and its intellectual property, for example. To analyze such new security threats to cloud-based quantum computers, this work first proposes and explores different types of quantum computer viruses. This work shows that quantum viruses can impact outcomes of Grover’s search algorithm or machine learning classification algorithms running on quantum computers, for example. The work then proposes a first of its kind quantum computer antivirus as a new means of protecting the expensive and fragile quantum computer hardware from quantum computer viruses. The antivirus can analyze quantum computer programs, also called circuits, and detect possibly malicious ones before they execute on quantum computer hardware. As a compile-time technique, it does not introduce any new overhead at run-time of the quantum computer.
+'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-01T00:00:00Z'
+date: '2023-05-01'
 date_end: ''
 all_day: false
 
