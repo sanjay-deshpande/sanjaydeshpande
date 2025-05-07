@@ -23,7 +23,7 @@ date: '2025-05-14T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-03-16T00:00:00Z'
+publishDate: '2025-05-14T00:00:00Z'
 
 authors: ['Sanjay Deshpande']
 tags: [Cryptography]
