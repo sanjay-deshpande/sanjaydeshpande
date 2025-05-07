@@ -53,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://eprint.iacr.org/2022/412.pdf'
+url_pdf: 'https://tches.iacr.org/index.php/TCHES/article/view/9695'
 url_code: 'https://caslab.csl.yale.edu/code/pqc-classic-mceliece/'
 url_dataset: ''
 url_poster: ''
