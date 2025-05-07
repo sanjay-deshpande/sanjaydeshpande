@@ -1,20 +1,28 @@
 ---
-title: 'Analyzing ChatGPT's Aptitude in an Introductory Computer Engineering Course'
+title: 'A Quantum Computer Trusted Execution Environment'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Theodoros Trochatos
+  - Chuanqi Xu
   - Sanjay Deshpande
+  - Yao Lu
+  - Yongshan Ding
   - Jakub Szefer
 
 # Author notes (optional)
 author_notes:
   - 
   - 
+  - 
+  -
+  -
+  -
 
-date: '2023-07-245T00:00:00Z'
-doi: '10.1109/CSCE60160.2023.00172'
+date: '2023-10-19T00:00:00Z'
+doi: 'https://doi.org/10.1109/LCA.2023.3325852'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -26,14 +34,14 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In 2023 Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE)
-publication_short: 
+publication: 'In IEEE Computer Architecture Letters'
+publication_short:
 
-abstract: 
+abstract: '' 
 
 # Summary. An optional shortened abstract.
 
-tags: [Large Language Models]
+tags: [Quantum Computer Security]
 
 # Display this page in the Featured widget?
 featured: true
@@ -43,8 +51,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10487436'
-url_code: 'https://github.com/caslab-code/openai-eeng201-solution-generator'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10288020'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -64,13 +72,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
+#projects:
 #  - example
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#slides: example
 ---
 
