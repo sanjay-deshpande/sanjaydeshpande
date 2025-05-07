@@ -96,7 +96,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: featured
+    # id: featured
     content:
       title: Talks
       filters:
