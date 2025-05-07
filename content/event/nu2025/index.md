@@ -1,5 +1,5 @@
 ---
-title: Hardware Realization and Implementation Security Evaluation of HQC, A NIST PQC Standard
+title: Hardware Realization and Implementation Security Evaluation of HQC A NIST PQC Standard
 
 event: ECE Seminar at Northwestern University
 event_url: 
