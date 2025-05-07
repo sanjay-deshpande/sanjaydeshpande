@@ -1,5 +1,5 @@
 ---
-title: 'Analyzing ChatGPT's Aptitude in an Introductory Comp. Eng. Course'
+title: 'SDitH in Hardware'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
