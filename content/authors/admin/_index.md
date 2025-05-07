@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student and Research Associate
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Electrical Engineering
       institution: Yale University
-      year: Ongoing
+      year: 2025
     - course: MS in Computer Engineering
       institution: George Mason University
       year: 2016
@@ -80,5 +80,5 @@ email: 'sanjay.deshpande@yale.edu'
 highlight_name: true
 ---
 
-Sanjay Deshpande is a third year Ph.D. candidate, a Teaching Fellow, and a Research Assiant at Computer Architecture and Security Lab, Yale University. His research interests include  efficient and secure hardware implementations of (symmetric, asymmetric, and post-quantum) cryptography algorithms and design and development of secure hardware architectures for quantum computers.
+Sanjay Deshpande is a fourth year Ph.D. candidate, a Teaching Fellow, and a Research Assistant at Computer Architecture and Security Lab, Yale University. His research interests include  efficient and secure hardware implementations of (symmetric, asymmetric, and post-quantum) cryptography algorithms and design and development of secure hardware architectures for quantum computers.
 {style="text-align: justify;"}
