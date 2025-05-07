@@ -18,12 +18,12 @@ abstract: 'The development of quantum computers has been advancing rapidly in re
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-04'
+date: 4th May 2023
 # date_end: '2023-05-01'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-05-04'
+publishDate: 
 
 authors: ['Sanjay Deshpande']
 tags: [Quantum Computer Security]
