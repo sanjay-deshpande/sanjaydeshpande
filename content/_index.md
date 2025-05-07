@@ -104,7 +104,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: card
+      view: citation
   - block: collection
     id: featured
     content:

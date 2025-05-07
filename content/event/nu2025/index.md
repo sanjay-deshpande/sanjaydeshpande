@@ -18,7 +18,7 @@ abstract: 'Quantum computing is no longer a distant dream, its rapid progress is
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: May 14, 2025
+date: '2025-05-14T00:00:00Z'
 # date_end: '2023-05-01'
 all_day: false
 
