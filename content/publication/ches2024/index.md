@@ -1,24 +1,30 @@
 ---
-title: 'SDitH in Hardware'
+title: 'Complete and Improved FPGA Implementation of Classic McEliece'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Po-Jen Chen
+  - Tung Chou
   - Sanjay Deshpande
-  - James Howe
+  - Norman Lahr
+  - Ruben Niederhagen
   - Jakub Szefer
-  - Dongze Yue
-  
+  - Wen Wang
+
 # Author notes (optional)
 author_notes:
+  - 'Equal contribution'
+  - 
+  - 'Equal contribution'
   - 
   - 
   - 
   - 
- 
-date: '2024-03-12T00:00:00Z'
-doi: 'https://doi.org/10.46586/tches.v2024.i2.215-251'
+
+date: '2022-09-01T00:00:00Z'
+doi: '10.46586/tches.v2022.i3.71-113'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -30,10 +36,10 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'In IACR Conference on Cryptographic Hardware and Embedded Systems 2024'
+publication: 'In IACR Conference on Cryptographic Hardware and Embedded Systems 2022'
 publication_short: 
 
-abstract: 'This work presents the first hardware realisation of the Syndrome-Decoding-in-the-Head (SDitH) signature scheme, which is a candidate in the NIST PQC process for standardising post-quantum secure digital signature schemes. SDitH's hardness is based on conservative code-based assumptions, and it uses the Multi-Party-Computation-in-the-Head (MPCitH) construction. This is the first hardware design of a code-based signature scheme based on traditional decoding problems and only the second for MPCitH constructions, after Picnic. This work presents optimised designs to achieve the best area efficiency, which we evaluate using the Time-Area Product (TAP) metric. This work also proposes a novel hardware architecture by dividing the signature generation algorithm into two phases, namely offline and online phases for optimising the overall clock cycle count. The hardware designs for key generation, signature generation, and signature verification are parameterised for all SDitH parameters, including the NIST security levels, both syndrome decoding base fields (GF256 and GF251), and thus conforms to the SDitH specifications. The hardware design further supports secret share splitting, and the hypercube optimisation which can be applied in this and multiple other NIST PQC candidates. The results of this work result in a hardware design with a drastic reducing in clock cycles compared to the optimised AVX2 software implementation, in the range of 2-4x for most operations. Our key generation outperforms software drastically, giving a 11-17x reduction in runtime, despite the significantly faster clock speed. On Artix 7 FPGAs we can perform key generation in 55.1 Kcycles, signature generation in 6.7 Mcycles, and signature verification in 8.6 Mcycles for NIST L1 parameters, which increase for GF251, and for L3 and L5 parameters.'
+abstract: 'We present the first specification-compliant constant-time FPGA implementation of the Classic McEliece cryptosystem from the third-round of NIST’s Post-Quantum Cryptography standardization process. In particular, we present the first complete implementation including encapsulation and decapsulation modules as well as key generation with seed expansion. All the hardware modules are parametrizable, at compile time, with security level and performance parameters. As the most time consuming operation of Classic McEliece is the systemization of the public key matrix during key generation, we present and evaluate three new algorithms that can be used for systemization while complying with the specification: hybrid early-abort systemizer (HEA), single-pass early-abort systemizer (SPEA), and dual-pass earlyabort systemizer (DPEA). All of the designs outperform the prior systemizer designs for Classic McEliece by 2.2x to 2.6x in average runtime and by 1.7x to 2.4x in time-area efficiency. We show that our complete Classic McEliece design for example can perform key generation in 5.2 ms to 20 ms, encapsulation in 0.1 ms to 0.5 ms, and decapsulation in 0.7 ms to 1.5 ms for all security levels on an Xlilinx Artix 7 FPGA. The performance can be increased even further at the cost of resources by increasing the level of parallelization using the performance parameters of our design.'
 
 # Summary. An optional shortened abstract.
 
@@ -47,8 +53,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://tches.iacr.org/index.php/TCHES/article/view/11426/10932'
-url_code: 'https://github.com/sandbox-quantum/sdith-impl-hw'
+url_pdf: 'https://tches.iacr.org/index.php/TCHES/article/view/9695'
+url_code: 'https://caslab.csl.yale.edu/code/pqc-classic-mceliece/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
