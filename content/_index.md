@@ -95,16 +95,16 @@ sections:
           description:
     design:
       columns: '2'
-  - block: accomplishments
-    id: talks
+  - block: collection
+    id: featured
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
     design:
       columns: '2'
-      view: compact
+      view: card
   - block: collection
     id: featured
     content:
