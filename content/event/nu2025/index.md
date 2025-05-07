@@ -18,12 +18,12 @@ abstract: 'Quantum computing is no longer a distant dream, its rapid progress is
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-14T00:00:00Z'
+date: May 14, 2025
 # date_end: '2023-05-01'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-05-14T00:00:00Z'
+publishDate: 
 
 authors: ['Sanjay Deshpande']
 tags: [Cryptography]
