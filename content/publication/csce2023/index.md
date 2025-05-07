@@ -1,5 +1,5 @@
 ---
-title: 'SDitH in Hardware'
+title: 'Analyzing ChatGPT's Aptitude in an Introductory Computer Engineering Course'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ author_notes:
   - 
   - 
 
-date: '2023-07-245T00:00:00Z'
+date: '2023-07-24T00:00:00Z'
 doi: '10.1109/CSCE60160.2023.00172'
 
 # Schedule page publish date (NOT publication's date).
