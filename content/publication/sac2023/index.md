@@ -35,7 +35,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: Selected Areas in Cryptography – SAC 2023: 30th International Conference
-publication_short: SAC 2023
+publication_short:
 
 abstract: This work presents a hardware design for constant-time implementation of the HQC (Hamming Quasi-Cyclic) code-based key encapsulation mechanism. HQC has been selected for the fourth round of NIST's Post-Quantum Cryptography standardization process and this work presents the first, hand-optimized design of HQC key generation, encapsulation, and decapsulation written in Verilog targeting implementation on FPGAs. The three modules further share a common SHAKE256 hash module to reduce area overhead. All the hardware modules are parametrizable at compile time so that designs for the different security levels can be easily generated. The design currently outperforms the other hardware designs for HQC, and many of the fourth-round Post-Quantum Cryptography standardization process, with one of the best time-area products as well. For the combined HighSpeed design targeting the lowest security level, we show that the HQC design can perform key generation in 0.09ms, encapsulation in 0.13ms, and decapsulation in 0.21ms when synthesized for an Xilinx Artix 7 FPGA. Our work shows that when hardware performance is compared, HQC can be a competitive alternative candidate from the fourth round of the NIST PQC competition.
 
