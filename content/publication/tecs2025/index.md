@@ -33,7 +33,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In ACM Transactions on Embedded Computing Systems 2025'
-publication_short:
+publication_short: ACM TECS 2025
 
 abstract: '' 
 
