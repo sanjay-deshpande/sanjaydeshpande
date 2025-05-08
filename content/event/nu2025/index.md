@@ -36,15 +36,15 @@ abstract: 'Quantum computing is no longer a distant dream, its rapid progress is
 tags: [Cryptography]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/abs/10.1007/978-3-031-53368-6_15'
-url_code: 'https://github.com/caslab-code/pqc-hqc-hardware'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
