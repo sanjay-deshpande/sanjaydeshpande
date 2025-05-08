@@ -82,7 +82,7 @@ highlight_name: true
 
 Hi, I’m Sanjay Deshpande — a researcher working at the intersection of cryptography, hardware security, and quantum computing.
 
-I recently completed my Ph.D. in Electrical Engineering at Yale University, where I focused on secure and efficient hardware implementations of post-quantum cryptographic (PQC) algorithms. Now, as a postdoctoral researcher at Northwestern University, I continue to explore hardware architectures for PQC, evaluate side-channel resistance, and support standardization efforts by NIST and ISO.
+I recently completed my Ph.D. in Electrical Engineering at Yale University, where I focused on secure and efficient hardware implementations of post-quantum cryptographic (PQC) algorithms. Soon I will be joining as a postdoctoral researcher at Northwestern University, where I plan to continue exploring hardware architectures for PQC, evaluating side-channel resistance, and contributing to PQC standardization efforts.
 
 Beyond cryptographic hardware design, I’m also interested in quantum computer security — studying how emerging quantum systems can be attacked and how to defend them at the hardware and architectural levels.
 
