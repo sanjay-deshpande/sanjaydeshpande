@@ -20,7 +20,7 @@ abstract: 'Quantum computing is no longer a distant dream, its rapid progress is
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-05-14T10:00:00Z'
 # date_end: '2023-05-01'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-04-01T00:00:00Z'
