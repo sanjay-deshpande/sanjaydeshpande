@@ -95,30 +95,17 @@ sections:
           description:
     design:
       columns: '2'
+  
   - block: collection
+    # id: featured
     content:
       title: Talks
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering talks](./event/).
-        {{% /callout %}}
       filters:
         folders:
           - event
-        exclude_featured: false
     design:
       columns: '2'
-      view: card  
-  # - block: collection
-  #   # id: featured
-  #   content:
-  #     title: Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: citation
+      view: card
   - block: collection
     id: featured
     content:
