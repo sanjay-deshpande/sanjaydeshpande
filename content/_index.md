@@ -73,9 +73,33 @@ sections:
           company: Yale University
           company_url: 'https://www.yale.edu/'
           company_logo: yale-logo-blue
-          location: New Haven, Connecticut
+          location: New Haven, USA
           date_start: '2020-10-26'
-          date_end: ''
+          date_end: #'2025-06-01'
+          description:
+        - title: PQC Research Scientist Resident
+          company: SandboxAQ
+          company_url: 'https://www.sandboxaq.com/'
+          company_logo: sandboxaq_logo
+          location: Palo Alto, USA
+          date_start: '2024-11-01'
+          date_end: #'2025-05-31'
+          description:
+        - title: Research Intern
+          company: Microsoft Research
+          company_url: 'https://www.microsoft.com/en-us/research/'
+          company_logo: microsoft_logo
+          location: Redmond, USA
+          date_start: '2024-06-10'
+          date_end: '2024-08-30'
+          description:
+        - title: PQC Research Scientist Resident
+          company: SandboxAQ
+          company_url: 'https://www.sandboxaq.com/'
+          company_logo: sandboxaq_logo
+          location: Palo Alto, USA
+          date_start: '2023-04-01'
+          date_end: '2023-12-22'
           description:
         - title: Hardware Security Researcher
           company: Technology Innovation Institute
