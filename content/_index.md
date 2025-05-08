@@ -100,7 +100,7 @@ sections:
       title: Talks
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Quickly discover relevant content by [filtering talks](./event/).
         {{% /callout %}}
       filters:
         folders:
