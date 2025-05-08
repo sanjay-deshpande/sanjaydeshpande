@@ -121,7 +121,7 @@ sections:
       columns: '2'
   
   - block: collection
-    # id: featured
+    id: talks
     content:
       title: Talks
       filters:
