@@ -37,7 +37,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In IACR Conference on Cryptographic Hardware and Embedded Systems 2022'
-publication_short: 
+publication_short: IACR CHES 2022
 
 abstract: ''
 

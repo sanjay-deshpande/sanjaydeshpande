@@ -34,8 +34,8 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
-publication_short: 
+publication: In 2022 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+publication_short: IEEE HOST 2022
 
 abstract: 
 

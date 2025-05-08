@@ -35,7 +35,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: Selected Areas in Cryptography 2023
-publication_short:
+publication_short: SAC 2023
 
 abstract: 
 

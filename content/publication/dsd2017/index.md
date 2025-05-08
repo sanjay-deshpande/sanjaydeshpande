@@ -26,8 +26,8 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In Euromicro Conference on Digital System Design (DSD 2017)
-publication_short: 
+publication: In Euromicro Conference on Digital System Design
+publication_short: DSD 2017
 
 abstract: 
 

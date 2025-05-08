@@ -37,7 +37,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Cryptology ePrint Archive'
-publication_short:
+publication_short: 'Preprint'
 
 abstract: '' 
 

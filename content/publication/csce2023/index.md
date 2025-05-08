@@ -27,7 +27,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In 2023 Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE)
-publication_short: 
+publication_short: CSCE 2023
 
 abstract: 
 

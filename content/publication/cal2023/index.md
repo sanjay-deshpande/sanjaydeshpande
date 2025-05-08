@@ -35,7 +35,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In IEEE Computer Architecture Letters'
-publication_short:
+publication_short: IEEE CAL
 
 abstract: '' 
 

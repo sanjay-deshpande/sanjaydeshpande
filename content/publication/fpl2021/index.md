@@ -28,8 +28,8 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In 31st International Conference on Field-Programmable Logic and Applications (FPL 2021) 
-publication_short: 
+publication: In 31st International Conference on Field-Programmable Logic and Applications 
+publication_short: FPL 2021
 
 abstract: 
 

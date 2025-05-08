@@ -33,7 +33,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In 2024 IEEE International Conference on Quantum Computing and Engineering (QCE)'
-publication_short: 
+publication_short: IEEE QCE 2024
 
 abstract: '' 
 

@@ -35,7 +35,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In 2024 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)'
-publication_short:
+publication_short: IEEE HOST 2024
 
 abstract: '' 
 
