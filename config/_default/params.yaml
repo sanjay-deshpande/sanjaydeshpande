@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Mar 1, 2023'
-  time_format: '2:15 PM'
+  date_format: ''
+  time_format: ''
   address_format: en-us
 
 # Site features
