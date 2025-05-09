@@ -238,6 +238,14 @@ sections:
           organization_url: https://www.gmu.edu/
           title: Outstanding Academic Acheivement Award
           url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2014-05-01'
+          description: ''
+          organization: Jawaharlal Nehru Technological University
+          organization_url: https://www.jntuh.ac.in/
+          title: Certificate of Excellence in Academics
+          url: ''
     design:
       columns: '2'
 #  - block: tag_cloud
