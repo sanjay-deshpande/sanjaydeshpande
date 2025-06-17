@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Yale University
-    url: https://www.yale.edu/
+  - name: Northwestern University
+    url: https://www.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Hardware Design, Cryptography, Post-Quantum Cryptography and Quantum Computer Security.
@@ -75,7 +75,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'sanjay.deshpande@yale.edu'
+email: 'sanjay.deshpande1@northwestern.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

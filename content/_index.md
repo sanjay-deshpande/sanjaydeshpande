@@ -69,13 +69,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title:  Postdoctoral Scholar
+          company: Northwestern University
+          company_url: 'https://www.northwestern.edu/'
+          company_logo: northwestern-logo
+          location: Evanston, USA
+          date_start: '2025-06-01'
+          date_end: #'2025-06-01'
+          description:
         - title:  Research Associate, Teaching Fellow, and Ph.D. Student
           company: Yale University
           company_url: 'https://www.yale.edu/'
           company_logo: yale-logo-blue
           location: New Haven, USA
           date_start: '2020-10-26'
-          date_end: #'2025-06-01'
+          date_end: '2025-06-01'
           description:
         - title: PQC Research Scientist Resident
           company: SandboxAQ
