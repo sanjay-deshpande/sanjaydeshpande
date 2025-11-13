@@ -50,16 +50,6 @@ sections:
     design:
       columns: '2'
   
-  - block: collection
-    id: research-thrusts
-    content:
-      title: Research Thrusts
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: card
  
 #  - block: collection
 #    id: posts
