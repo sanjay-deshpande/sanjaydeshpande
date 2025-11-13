@@ -47,6 +47,8 @@ sections:
 #          description: 
 #          icon: camera-retro
 #          icon_pack: fas
+    design:
+      columns: '2'
   - block: experience
     content:
       title: Experience
