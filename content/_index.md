@@ -49,6 +49,30 @@ sections:
 #          icon_pack: fas
     design:
       columns: '2'
+  
+   - block: collection
+    id: Research Thrusts
+    content:
+      title: Research Thrusts
+      count: 3
+      text: |-
+        
+      filters:
+        category:
+        folders:
+        exclude_featured: false
+      archive:
+        enable: true
+        text: 
+        link: 
+    design:
+      columns: '2'
+      view: card
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '10px', '0']
+  
+  
   - block: experience
     content:
       title: Experience
