@@ -52,13 +52,13 @@ sections:
   
  
   - block: collection
-    id: posts
+    id: Directions
     content:
-      title: Recent Posts
+      title: Research Directions
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 1
+      count: 3
       # Filter on criteria
       filters:
         folders:

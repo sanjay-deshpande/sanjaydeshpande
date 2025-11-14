@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Research Directions
 cms_exclude: true
 
 # View.
