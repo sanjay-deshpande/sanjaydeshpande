@@ -52,7 +52,7 @@ sections:
   
  
   - block: collection
-    id: Directions
+    id: post
     content:
       title: Research Directions
       subtitle: ''
