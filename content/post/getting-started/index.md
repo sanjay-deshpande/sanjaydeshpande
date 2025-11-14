@@ -3,7 +3,7 @@ title: What is Quantum Computer Security?
 subtitle: An introduction to the field of quantum computer security, its importance, and key concepts.
 
 # Summary for listings and search engines
-summary: 
+summary: An introduction to the field of quantum computer security, its importance, and key concepts.
 
 # Link this post with a project
 projects: []
@@ -38,12 +38,8 @@ categories:
   - 
 ---
 
-```python
-import libr
-print('hello')
-```
 
-## Overview
+<!-- ## Overview
 
-1. Test post for getting started.
+1. Test post for getting started. -->
 
