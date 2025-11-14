@@ -4,7 +4,7 @@ subtitle: Hardware Evaluation of Post-Quantum Cryptographic Algorithms
 
 # Summary for listings and search engines
 summary: >-
-  Quantum computing's advancement threatens current cryptographic systems. Quantum algorithm called Shor's algorithm can efficiently break widely-used encryption like RSA and ECC, exposing sensitive data including biometric information and encryption keys. This necessitates urgent migration to quantum-safe alternatives. Post-quantum cryptographic (PQC) algorithms offer resistance to quantum attacks. Organizations like NIST, ISO, IETF, etc. are working towards standardizing PQC algorithms for secure communication in the quantum era. An essential aspect of these standardization processes is hardware implementation and security evaluation of these algorithms.
+#  Quantum computing's advancement threatens current cryptographic systems. Quantum algorithm called Shor's algorithm can efficiently break widely-used encryption like RSA and ECC, exposing sensitive data including biometric information and encryption keys. This necessitates urgent migration to quantum-safe alternatives. Post-quantum cryptographic (PQC) algorithms offer resistance to quantum attacks. Organizations like NIST, ISO, IETF, etc. are working towards standardizing PQC algorithms for secure communication in the quantum era. An essential aspect of these standardization processes is hardware implementation and security evaluation of these algorithms.
 
 # Quantum computers offer some security advantages. The no-cloning theorem prevents exact copying of unknown quantum states, eliminating attack vectors like buffer overflow exploits that rely on replicating memory. However, quantum systems face entirely new vulnerabilities.
 # Unlike classical processors, quantum computers require extensive classical control infrastructure—signal generators, mixers, and FPGAs—that remain understudied from a security perspective. Their large physical footprint makes them more accessible to physical probing and side-channel attacks targeting classical control pathways.
@@ -45,7 +45,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  <img src="featured.png" alt="Featured image" style="display:block;margin:0 auto;max-width:1200px;width:100%;height:auto;" />
+  caption: ''
   focal_point: ''
   placement: 1
   preview_only: false
