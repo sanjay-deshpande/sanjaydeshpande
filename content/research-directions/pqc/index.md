@@ -29,7 +29,7 @@ featured: false
 image:
   caption: ''
   focal_point: ''
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
@@ -54,6 +54,17 @@ section,
   text-align: justify;
 }
 </style>
+
+"Quantum computing's rapid advancement promises transformative breakthroughs across numerous disciplines. However, while quantum computers offer unprecedented capabilities for solving complex mathematical problems, they simultaneously threaten the security foundations of our existing cryptographic infrastructure. Shor's algorithm, a quantum algorithm, can efficiently compromise widely deployed public-key encryption systems including Rivest-Shamir-Adleman (RSA) and Elliptic Curve Cryptography (ECC), exposing sensitive information to potential attacks. This vulnerable information spans critical assets such as biometric data, encryption keys, and other confidential materials. The quantum threat creates an urgent imperative to transition toward quantum-resistant alternatives before adversaries with quantum capabilities emerge.
+
+Addressing this challenge, post-quantum cryptographic (PQC) algorithms represent a critical defense, providing cryptographic schemes designed to withstand both classical and quantum attacks. The National Institute of Standards and Technology (NIST), alongside international cryptographic organizations, is actively working to standardize PQC algorithms. Hardware implementation and rigorous evaluation form essential components of these standardization efforts, ensuring practical deployability and security validation.
+
+My work advances practical understanding of PQC algorithms through comprehensive hardware implementation and performance analysis. The work examines six distinct algorithms—three key encapsulation mechanisms and three digital signature schemes—representing four unique cryptographic families, providing insights into optimal hardware realization strategies for quantum-resistant cryptography.
+
+### Looking Ahead
+Post-quantum cryptography is essential for protecting digital infrastructure against quantum computer threats. NIST has standardized five algorithms and is evaluating 14 additional candidates to provide diverse cryptographic options for varying use cases and security requirements. Prototyping and assessing these algorithms across hardware and software platforms is crucial for informing deployment decisions.
+My research plans to address this need by developing efficient, secure, side-channel-resistant implementations tailored to specific applications—from resource-constrained IoT devices to high-performance cloud infrastructure. Using RTL and high-level synthesis, I optimize the performance-security tradeoff for each deployment scenario, recognizing that different applications demand different solutions. My work encompasses the full hardware acceleration spectrum, from CPU extensions to custom accelerators, with quantitative evaluation identifying optimal designs for each use case.
+
 <!-- Quantum computing is emerging as a transformative technology capable of solving problems beyond classical supercomputers' reach. Major platforms like IBM Quantum, Amazon Braket, and Microsoft Azure now offer cloud-based quantum processors, making this technology widely accessible. While much attention focuses on post-quantum cryptography, protecting classical systems from quantum attacks, my work focuses on complementary aspects: securing quantum computers themselves from security threats.
 
 Quantum computers offer some security advantages. The no-cloning theorem prevents exact copying of unknown quantum states, eliminating attack vectors like buffer overflow exploits that rely on replicating memory. However, quantum systems face entirely new vulnerabilities. Unlike classical processors, quantum computers require extensive classical control infrastructure—signal generators, mixers, and FPGAs—that remain understudied from a security perspective. Their large physical footprint makes them more accessible to physical probing and side-channel attacks targeting classical control pathways. Without quantum memory or networking, current systems embed all data directly in quantum programs. On cloud platforms, submitted jobs contain hardcoded constants and data that, if intercepted, could expose sensitive information. These unique challenges create significant research opportunities. As quantum computing becomes practical, system security has emerged as a critical research frontier. Recent studies reveal vulnerabilities across the entire quantum stack—from hardware to compilers to algorithms—while proposing innovative defense mechanisms. -->
