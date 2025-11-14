@@ -62,7 +62,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - research-directions
         author: ""
         category: ""
         tag: ""
