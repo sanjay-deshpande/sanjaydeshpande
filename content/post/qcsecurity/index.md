@@ -4,8 +4,7 @@ subtitle: An introduction to the field of quantum computer security, its importa
 
 # Summary for listings and search engines
 summary: 
-
-# Quantum computing is emerging as a transformative technology capable of solving problems beyond classical supercomputers' reach. Major platforms like IBM Quantum, Amazon Braket, and Microsoft Azure now offer cloud-based quantum processors, making this technology widely accessible. While much attention focuses on post-quantum cryptography, protecting classical systems from quantum attacks, my work focuses on complimentary aspect, securing quantum computers themselves from security threats.
+'Quantum computing is emerging as a transformative technology capable of solving problems beyond classical supercomputers' reach. Major platforms like IBM Quantum, Amazon Braket, and Microsoft Azure now offer cloud-based quantum processors, making this technology widely accessible. While much attention focuses on post-quantum cryptography, protecting classical systems from quantum attacks, my work focuses on complimentary aspect, securing quantum computers themselves from security threats.'
 
 # Quantum computers offer some security advantages. The no-cloning theorem prevents exact copying of unknown quantum states, eliminating attack vectors like buffer overflow exploits that rely on replicating memory. However, quantum systems face entirely new vulnerabilities.
 # Unlike classical processors, quantum computers require extensive classical control infrastructure—signal generators, mixers, and FPGAs—that remain understudied from a security perspective. Their large physical footprint makes them more accessible to physical probing and side-channel attacks targeting classical control pathways.
