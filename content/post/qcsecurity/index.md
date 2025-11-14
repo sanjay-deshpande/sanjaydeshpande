@@ -9,20 +9,20 @@ Quantum computers offer some security advantages. The no-cloning theorem prevent
 Unlike classical processors, quantum computers require extensive classical control infrastructure—signal generators, mixers, and FPGAs—that remain understudied from a security perspective. Their large physical footprint makes them more accessible to physical probing and side-channel attacks targeting classical control pathways.
 Without quantum memory or networking, current systems embed all data directly in quantum programs. On cloud platforms, submitted jobs contain hardcoded constants and data that, if intercepted, could expose sensitive information. These unique challenges create significant research opportunities. As quantum computing becomes practical, system security has emerged as a critical research frontier. Recent studies reveal vulnerabilities across the entire quantum stack—from hardware to compilers to algorithms—while proposing innovative defense mechanisms. The following discusses current threats and defenses.
 
-**Hardware-Level Vulnerabilities**
-Quantum crosstalk enables attacks in multi-tenant cloud environments, where malicious circuits degrade victim computations on shared processors. Side-channel attacks leak information through timing analysis, power consumption traces, and improperly cleared qubit states that allow data leakage between consecutive circuits. My work demonstrates practicality of these attacks on real quantum hardware.
+# **Hardware-Level Vulnerabilities**
+# Quantum crosstalk enables attacks in multi-tenant cloud environments, where malicious circuits degrade victim computations on shared processors. Side-channel attacks leak information through timing analysis, power consumption traces, and improperly cleared qubit states that allow data leakage between consecutive circuits. My work demonstrates practicality of these attacks on real quantum hardware.
 
-**Software and Algorithm-Layer Threats**
-Malicious compilers threaten intellectual property through circuit theft. Sophisticated attacks like QTrojan manipulate hardware configuration files to disable data encoding while masquerading as routine calibrations.
+# **Software and Algorithm-Layer Threats**
+# Malicious compilers threaten intellectual property through circuit theft. Sophisticated attacks like QTrojan manipulate hardware configuration files to disable data encoding while masquerading as routine calibrations.
 
-**Building Defense-in-Depth**
-Countermeasures span multiple layers, hardware defenses include Quantum Trusted Execution Environments, QPUFs, device fingerprinting, and circuit watermarking. Circuit obfuscation protects cloud-deployed IP. Software defenses include quantum antivirus systems detecting malicious patterns and circuit splitting across processors to limit information exposure.
+# **Building Defense-in-Depth**
+# Countermeasures span multiple layers, hardware defenses include Quantum Trusted Execution Environments, QPUFs, device fingerprinting, and circuit watermarking. Circuit obfuscation protects cloud-deployed IP. Software defenses include quantum antivirus systems detecting malicious patterns and circuit splitting across processors to limit information exposure.
 
-**Taxonomizing the Threat Landscape**
-Recent surveys categorize quantum security threats into three classes - (1) Information Leak attacks extracting sensitive data, (2) Untargeted Attacks degrading performance opportunistically, and (3) Targeted Attacks achieving precise malicious goals through deep system knowledge.
+# **Taxonomizing the Threat Landscape**
+# Recent surveys categorize quantum security threats into three classes - (1) Information Leak attacks extracting sensitive data, (2) Untargeted Attacks degrading performance opportunistically, and (3) Targeted Attacks achieving precise malicious goals through deep system knowledge.
 
-**The Path Forward**
-As quantum systems advance, security must evolve alongside. Robust defenses across hardware, software, and algorithms are essential to ensure quantum computing delivers trustworthy, resilient systems for sensitive computations. My work contributes to this critical research frontier, exploring vulnerabilities and pioneering defenses to safeguard the quantum future.
+# **The Path Forward**
+# As quantum systems advance, security must evolve alongside. Robust defenses across hardware, software, and algorithms are essential to ensure quantum computing delivers trustworthy, resilient systems for sensitive computations. My work contributes to this critical research frontier, exploring vulnerabilities and pioneering defenses to safeguard the quantum future.
 
 
 
