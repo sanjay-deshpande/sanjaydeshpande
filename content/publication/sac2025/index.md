@@ -53,8 +53,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/caslab-code/pqc-hw-meds'
+url_pdf: 'https://eprint.iacr.org/2025/796.pdf'
+url_code: 'https://github.com/caslab-code/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
