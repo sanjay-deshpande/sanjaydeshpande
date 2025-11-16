@@ -72,7 +72,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_sd.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'sanjay.deshpande1@northwestern.edu'
