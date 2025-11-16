@@ -199,6 +199,17 @@ sections:
       columns: '2'
   
   - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
+    design:
+      columns: '2'
+      view: citation
+  
+  - block: collection
     id: talks
     content:
       title: Talks
