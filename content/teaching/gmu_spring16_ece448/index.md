@@ -1,5 +1,5 @@
 ---
-title: Spring 2016 - ECE 448 - Linear Electronics Lab
+title: Fall 2016 - ECE 334 - Linear Electronics Lab
 
 event: Dept. of Electrical and Computer Engineering, George Mason University
 event_url: 
@@ -19,12 +19,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2016-01-01T10:00:00Z'
-date_end: '2016-05-15'
+date: '2016-08-01T10:00:00Z'
+date_end: '2016-12-15'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2015-12-01T00:00:00Z'
+publishDate: '2016-07-01T00:00:00Z'
 
 authors: ['Sanjay Deshpande']
 tags: [teaching]
@@ -62,4 +62,4 @@ featured: false
 #  - example
 ---
 
-The lab provided a practical introduction to modeling digital systems with VHDL for logic synthesis. It offered an overview of design flow and tools for FPGAs. The course discussed verification of digital systems using testbenches, prototyping boards, and modern testing equipment, and illustrated VHDL-based design methodology through multiple examples from communications, control, DSP, and cryptography. Laboratory experiments established the link between simulation and actual hardware implementation using FPGA boards.
+The lab explored the principles of operation and application of electron devices and linear circuits. Topics covered included semiconductor properties, diodes, bipolar and field effect transistors, biasing techniques, amplifier circuits, frequency response analysis, operational amplifiers, and analog circuit design. Students gained hands-on experience implementing and testing these fundamental electronic components and circuits.
