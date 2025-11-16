@@ -1,5 +1,5 @@
 ---
-title: Spring 2024 - EENG 201 - Intro to Computer Engineering
+title: Spring 2023 - EENG 201 - Intro to Computer Engineering
 
 event: Dept. of Electrical and Computer Engineering, Yale University
 event_url: 'https://science.yalecollege.yale.edu/eeng-201b-introduction-computer-engineering'
@@ -12,9 +12,9 @@ address:
   postcode: ''
   country: United States
 
-summary: 'This course serves as the foundation of the Computer Engineering program within the Electrical Engineering department. Centered on computer architecture, it equips students with the theoretical knowledge needed to design a basic processor. The curriculum begins with digital data representation, then progresses to enable students to create circuits for specific algorithmic tasks. To achieve this, the course covers Boolean algebra, combinational circuit design and optimization, and sequential logic design using Finite State Machines. These components culminate in an introduction to fundamental processor design principles, integrating all prior concepts.'
+summary: 
 
-abstract: 
+abstract: 'This course serves as the foundation of the Computer Engineering program within the Electrical Engineering department. Centered on computer architecture, it equips students with the theoretical knowledge needed to design a basic processor. The curriculum begins with digital data representation, then progresses to enable students to create circuits for specific algorithmic tasks. To achieve this, the course covers Boolean algebra, combinational circuit design and optimization, and sequential logic design using Finite State Machines. These components culminate in an introduction to fundamental processor design principles, integrating all prior concepts.'
 
 
 # Talk start and end times.
