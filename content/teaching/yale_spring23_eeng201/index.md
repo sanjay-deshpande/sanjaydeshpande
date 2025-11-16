@@ -1,8 +1,8 @@
 ---
-title: Hardware Realization and Implementation Security Evaluation of HQC, A NIST PQC Standard
+title: Spring 2024 - EENG 201 - Intro to Computer Engineering
 
 event: Dept. of Electrical and Computer Engineering, Yale University
-event_url: 
+event_url: 'https://science.yalecollege.yale.edu/eeng-201b-introduction-computer-engineering'
 
 location: Yale University
 address:
@@ -12,18 +12,19 @@ address:
   postcode: ''
   country: United States
 
-summary: 
+summary: 'This course serves as the foundation of the Computer Engineering program within the Electrical Engineering department. Centered on computer architecture, it equips students with the theoretical knowledge needed to design a basic processor. The curriculum begins with digital data representation, then progresses to enable students to create circuits for specific algorithmic tasks. To achieve this, the course covers Boolean algebra, combinational circuit design and optimization, and sequential logic design using Finite State Machines. These components culminate in an introduction to fundamental processor design principles, integrating all prior concepts.'
+
 abstract: 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-14T10:00:00Z'
-# date_end: '2023-05-01'
+date: '2024-01-01T10:00:00Z'
+date_end: '2024-05-01'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-04-01T00:00:00Z'
+publishDate: '2024-04-01T00:00:00Z'
 
 authors: ['Sanjay Deshpande']
 tags: [teaching]
@@ -39,7 +40,7 @@ featured: false
 #   - icon: 
 #     icon_pack: 
 #     name: 
-#     url: 
+#     url:  
 # url_code: ''
 # url_pdf: ''
 # url_slides: ''
