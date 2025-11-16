@@ -1,5 +1,5 @@
 ---
-title: Spring 2024 - EENG 201 - Intro to Computer Engineering
+title:  Teaching Fellow | EENG 201 - Intro to Computer Engineering | Spring 2024
 
 event: Dept. of Electrical and Computer Engineering, Yale University
 event_url: 'https://science.yalecollege.yale.edu/eeng-201b-introduction-computer-engineering'

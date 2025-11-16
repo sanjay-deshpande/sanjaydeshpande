@@ -1,5 +1,5 @@
 ---
-title: Fall 2015 - ECE 545 - Digital System Design with VHDL
+title: Teaching Assistant | ECE 545 - Digital System Design with VHDL | Fall 2015
 
 event: Dept. of Electrical and Computer Engineering, George Mason University
 event_url: 

@@ -1,5 +1,5 @@
 ---
-title: Spring 2016 - ECE 448 - Linear Electronics Lab
+title: Teaching Assistant | ECE 334 - Linear Electronics Lab | Fall 2015 
 
 event: Dept. of Electrical and Computer Engineering, George Mason University
 event_url: 

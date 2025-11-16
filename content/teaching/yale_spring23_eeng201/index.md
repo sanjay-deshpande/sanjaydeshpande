@@ -1,5 +1,5 @@
 ---
-title: Spring 2023 - EENG 201 - Intro to Computer Engineering
+title:  Teaching Fellow | EENG 201 - Intro to Computer Engineering | Spring 2023
 
 event: Dept. of Electrical and Computer Engineering, Yale University
 event_url: 'https://science.yalecollege.yale.edu/eeng-201b-introduction-computer-engineering'
@@ -19,12 +19,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-01-01T10:00:00Z'
-date_end: '2024-05-01'
+date: '2023-01-01T10:00:00Z'
+date_end: '2023-05-01'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-04-01T00:00:00Z'
+publishDate: '2022-12-01T00:00:00Z'
 
 authors: ['Sanjay Deshpande']
 tags: [teaching]

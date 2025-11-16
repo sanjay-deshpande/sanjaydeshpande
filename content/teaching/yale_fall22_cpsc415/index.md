@@ -1,5 +1,5 @@
 ---
-title: Fall 2022 - CPSC 415/ CPSC 515 - Law, Security, and Logic
+title: Teaching Fellow | CPSC 415/ CPSC 515 - Law, Security, and Logic | Fall 2022
 
 event: Dept. of Computer Science, Yale University
 event_url: 
