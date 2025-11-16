@@ -201,7 +201,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Teaching Fellow and Assistantships
       filters:
         folders:
           - teaching
