@@ -1,15 +1,16 @@
 ---
-title: Talk at Northwestern University
-event: ECE Seminar at Northwestern University
+title: Tech Talk at Qualcomm
+
+event: Seminar at Qualcomm
 event_url: 
 
-location: Northwestern University
+location: Qualcomm
 address:
   street: 
-  city: Evanston
-  region: Illinois
+  city: Valbonne
+  region: Alpes-Maritimes
   postcode: ''
-  country: United States
+  country: France
 
 summary: 
 abstract: 
@@ -18,12 +19,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-14T10:00:00Z'
+date: '2023-11-01T10:00:00Z'
 # date_end: '2023-05-01'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-04-01T00:00:00Z'
+publishDate: '2023-11-01T00:00:00Z'
 
 authors: ['Sanjay Deshpande']
 tags: [Cryptography]

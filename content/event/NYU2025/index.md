@@ -1,13 +1,14 @@
 ---
-title: Talk at Northwestern University
-event: ECE Seminar at Northwestern University
+title: Talk at New York University
+
+event: ECE Seminar at New York University
 event_url: 
 
-location: Northwestern University
+location: New York University
 address:
   street: 
-  city: Evanston
-  region: Illinois
+  city: New York
+  region: New York
   postcode: ''
   country: United States
 
@@ -18,12 +19,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-14T10:00:00Z'
+date: '2025-10-23T10:00:00Z'
 # date_end: '2023-05-01'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-04-01T00:00:00Z'
+publishDate: '2025-10-01T00:00:00Z'
 
 authors: ['Sanjay Deshpande']
 tags: [Cryptography]
