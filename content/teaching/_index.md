@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Teaching
 cms_exclude: false
 
 # View.
