@@ -309,7 +309,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -321,12 +321,31 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
+          date_start: '2023-12-01'
+          description: ''
+          organization: IEEE Computer Architecture Letters
+          organization_url: https://www.computer.org/csdl/journal/ca
+          title: Best of IEEE CAL award for the year 2023
+          url: ''
+
+        - certificate_url: 
+          date_end: ''
+          date_start: '2023-09-15'
+          description: ''
+          organization: Cyber-physical Systems Summer School
+          organization_url: https://www.cpsschool.eu/cps-summer-school-2023/
+          title: Best Project Award
+          url: ''
+
+        - certificate_url: 
+          date_end: ''
           date_start: '2017-05-01'
           description: ''
           organization: George Mason University
           organization_url: https://www.gmu.edu/
           title: Outstanding Academic Acheivement Award
           url: ''
+
         - certificate_url: 
           date_end: ''
           date_start: '2014-05-01'
@@ -335,6 +354,7 @@ sections:
           organization_url: https://www.jntuh.ac.in/
           title: Certificate of Excellence in Academics
           url: ''
+          
     design:
       columns: '2'
 #  - block: tag_cloud
