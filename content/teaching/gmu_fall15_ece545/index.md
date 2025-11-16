@@ -1,14 +1,14 @@
 ---
-title: Fall 2022 - CPSC 415/ CPSC 515 - Law, Security, and Logic
+title: Fall 2015 - ECE 545 - Digital System Design with VHDL
 
-event: Dept. of Computer Science, Yale University
+event: Dept. of Electrical and Computer Engineering, George Mason University
 event_url: 
 
-location: Yale University
+location: George Mason University
 address:
   street: 
-  city: New Haven
-  region: Connecticut
+  city: Fairfax
+  region: Virginia
   postcode: ''
   country: United States
 
@@ -19,12 +19,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-08-01T10:00:00Z'
-date_end: '2022-12-15'
+date: '2015-08-01T10:00:00Z'
+date_end: '2015-12-15'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-07-01T00:00:00Z'
+publishDate: '2015-07-01T00:00:00Z'
 
 authors: ['Sanjay Deshpande']
 tags: [teaching]
@@ -62,4 +62,4 @@ featured: false
 #  - example
 ---
 
-Law, Security, and Logic, an interdisciplinary course exploring how computer-automated reasoning can advance both cybersecurity and legal reasoning.
+The course introduced the design of complex digital systems using hardware description languages. It taught design methodologies that partitioned systems into datapaths and controllers. The focus was on synthesizable RTL VHDL code for digital circuit design using dataflow, structural, and behavioral coding styles. Students were introduced to VHDL simulation and verification, along with FPGA synthesis, placement, routing, timing analysis, and performance optimization. The course required a semester-long project devoted to designing a complex digital system implemented on FPGAs.
