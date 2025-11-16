@@ -1,8 +1,8 @@
 ---
-title: Talk at New York University
+title: New York University
 
 event: ECE Seminar at New York University
-event_url: 
+event_url: https://engineering.nyu.edu/events/2025/10/23/hardware-realization-and-implementation-security-evaluation-hqc-nist-pqc-standard
 
 location: New York University
 address:

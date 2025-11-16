@@ -1,5 +1,5 @@
 ---
-title: Talk at Northwestern University
+title: Northwestern University
 event: ECE Seminar at Northwestern University
 event_url: 
 

@@ -1,5 +1,5 @@
 ---
-title: Talk at Academia Sinica 
+title: Academia Sinica 
 
 event: Seminar at Academia Sinica
 event_url: 
@@ -17,7 +17,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-11-01T10:00:00Z'
+date: '2025-11-21T10:00:00Z'
 # date_end: '2023-05-01'
 all_day: true
 

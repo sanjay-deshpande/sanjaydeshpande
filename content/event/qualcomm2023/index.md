@@ -1,7 +1,7 @@
 ---
-title: Tech Talk at Qualcomm
+title: Qualcomm
 
-event: Seminar at Qualcomm
+event: Tech Talk at Qualcomm
 event_url: 
 
 location: Qualcomm

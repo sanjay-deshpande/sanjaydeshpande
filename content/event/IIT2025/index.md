@@ -1,5 +1,5 @@
 ---
-title: Talk at Indian Institute of Technology
+title: Indian Institute of Technology
 
 event: Seminar at Indian Institute of Technology
 event_url: 
