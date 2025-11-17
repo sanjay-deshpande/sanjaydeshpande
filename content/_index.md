@@ -161,7 +161,7 @@ sections:
           company_logo: sandboxaq_logo
           location: Palo Alto, USA
           date_start: '2024-11-01'
-          date_end: #'2025-05-31'
+          date_end: '2025-05-31'
           description:
         - title: Research Intern
           company: Microsoft Research
