@@ -39,10 +39,10 @@ links:
   - icon: 
     icon_pack: 
     name: 
-    url: 'https://csrc.nist.gov/Presentations/2022/complete-and-improved-fpga-implementation-of-class'
+    url:
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://csrc.nist.gov/csrc/media/Presentations/2022/complete-and-improved-fpga-implementation-of-class/images-media/session6-deshpande-complete-and-improved-fpga-pqc2022.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
