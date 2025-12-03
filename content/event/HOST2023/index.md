@@ -1,16 +1,16 @@
 ---
-title: Design of Quantum Computer Antivirus
+title: Fast and Efficient Hardware Implementation of HQC 
 
-event: IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2023
-event_url: 'http://www.hostsymposium.org/host2023/index2023.php'
+event: International Workshop on Code-Based Cryptography 2023
+event_url: 
 
 location: 
 address:
   street: 
-  city: San Jose
-  region: California
+  city: 
+  region: Lyon
   postcode: ''
-  country: USA
+  country: France
 
 summary: 
 abstract: 
@@ -18,12 +18,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-04T00:00:00Z'
-date_end: '2023-05-04T00:00:00Z'
+date: '2023-04-22T10:00:00Z'
+date_end: '2023-04-22T10:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-05-04T00:00:00Z'
+publishDate: '2023-04-22T00:00:00Z'
 
 authors: ['Sanjay Deshpande']
 tags: [Cryptography]
