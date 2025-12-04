@@ -1,5 +1,5 @@
 ---
-title: Design of Quantum Computer Antivirus - A Retrospective Study
+title: Design of Quantum Computer Antivirus
 
 event: 1st Annual Quantum Computer Cybersecurity Symposium
 event_url: 'https://caslab.io/events/qccs/'
