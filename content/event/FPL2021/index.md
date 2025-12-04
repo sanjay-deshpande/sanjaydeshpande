@@ -5,8 +5,8 @@ event:  International Conference on Field Programmable Logic and Applications (F
 event_url: 
 
 location: International Conference on Field Programmable Logic and Applications (FPL) 2021
-address: TU Dresden
-  street: 
+address: 
+  street: TU Dresden
   city: Dresden
   region: 
   postcode: ''

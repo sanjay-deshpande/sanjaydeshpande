@@ -1,5 +1,5 @@
 ---
-title: New York University
+title: Hardware Realization and Implementation Security Evaluation of HQC, A NIST PQC Standard
 
 event: Invited Seminar - Dept. of Electrical and Computer Engineering department, New York University
 event_url: https://engineering.nyu.edu/events/2025/10/23/hardware-realization-and-implementation-security-evaluation-hqc-nist-pqc-standard

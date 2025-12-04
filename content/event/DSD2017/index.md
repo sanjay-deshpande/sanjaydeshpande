@@ -5,7 +5,7 @@ event:  Euromicro Conference on Digital System Design (DSD) 2017
 event_url: 
 
 location: Euromicro Conference on Digital System Design (DSD) 2017
-address:
+address: 
   street: TU Wien
   city: Vienna
   region: 
