@@ -1,14 +1,14 @@
 ---
 title: Analysis and Inner-Round Pipelined Implementation of Selected Parallelizable CAESAR Competition Candidates
 
-event:  2017 Euromicro Conference on Digital System Design (DSD),
+event:  Euromicro Conference on Digital System Design (DSD) 2017 
 event_url: 
 
-location: TU Wien
+location: Euromicro Conference on Digital System Design (DSD) 2017
 address:
-  street: 
-  city: 
-  region: Vienna
+  street: TU Wien
+  city: Vienna
+  region: 
   postcode: ''
   country: Austria
 

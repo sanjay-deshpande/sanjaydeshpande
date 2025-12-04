@@ -1,7 +1,7 @@
 ---
-title: Academia Sinica 
+title: Hardware Realization and Implementation Security Evaluation of HQC, A NIST PQC Standard 
 
-event: Seminar at Academia Sinica
+event: Invited seminar at Academia Sinica
 event_url: 
 
 location: Academia Sinica
@@ -18,7 +18,7 @@ abstract:
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-11-21T10:00:00Z'
-# date_end: '2023-05-01'
+date_end: '2025-11-21T10:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).

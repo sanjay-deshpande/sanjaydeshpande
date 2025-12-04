@@ -4,11 +4,11 @@ title: Modular Inverse for Integers using Fast Constant Time GCD Algorithm and i
 event:  International Conference on Field Programmable Logic and Applications (FPL) 2021
 event_url: 
 
-location: TU Dresden
-address:
+location: International Conference on Field Programmable Logic and Applications (FPL) 2021
+address: TU Dresden
   street: 
-  city: 
-  region: Dresden
+  city: Dresden
+  region: 
   postcode: ''
   country: Germany
 

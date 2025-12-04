@@ -1,7 +1,7 @@
 ---
-title: Indian Institute of Technology
+title: Hardware Implementation Efficiency and Security Evaluation of HQC: A NIST PQC Standard
 
-event: Seminar at Indian Institute of Technology
+event: Invited talk at Indian Institute of Technology
 event_url: 
 
 location: Indian Institute of Technology

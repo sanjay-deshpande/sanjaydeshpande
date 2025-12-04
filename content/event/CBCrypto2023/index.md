@@ -4,7 +4,7 @@ title: Design of Quantum Computer Antivirus
 event: IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2023
 event_url: 'http://www.hostsymposium.org/host2023/index2023.php'
 
-location: 
+location: IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2023
 address:
   street: 
   city: San Jose

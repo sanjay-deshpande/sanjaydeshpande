@@ -4,7 +4,7 @@ title: Complete and Improved FPGA Implementation of Classic McEliece
 event:  Fourth NIST PQC Standardization Conference
 event_url: 
 
-location: 
+location: Fourth NIST PQC Standardization Conference
 address:
   street: 
   city: 

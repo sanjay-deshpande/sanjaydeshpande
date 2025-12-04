@@ -1,7 +1,7 @@
 ---
-title: Qualcomm
+title: Fast and Efficient Hardware Implementation of HQC
 
-event: Tech Talk at Qualcomm
+event: Invited Tech Talk at Qualcomm
 event_url: 
 
 location: Qualcomm
