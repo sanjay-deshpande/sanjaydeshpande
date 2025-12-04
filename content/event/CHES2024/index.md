@@ -1,16 +1,16 @@
 ---
-title: Fast and Efficient Hardware Implementation of HQC 
+title: SDitH in Hardware 
 
-event: International Workshop on Code-Based Cryptography 2023
+event:  IACR Transactions on Cryptographic Hardware and Embedded Systems 2024
 event_url: 
 
-location: International Workshop on Code-Based Cryptography 2023
+location: IACR TCHES 2024
 address:
   street: 
-  city: Lyon
+  city: Haliflax
   region: 
   postcode: ''
-  country: France
+  country: Canada
 
 summary: 
 abstract: 
@@ -18,15 +18,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-04-22T10:00:00Z'
-date_end: '2023-04-22T10:00:00Z'
+date: '2024-09-06T10:00:00Z'
+date_end: '2024-09-06T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-04-22T00:00:00Z'
-
+publishDate: '2024-08-17T00:00:00Z'
 authors: ['Sanjay Deshpande']
-tags: [Quantum Computer Security]
+tags: [Cryptography]
 
 # Is this a featured talk? (true/false)
 featured: false
