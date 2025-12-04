@@ -1,16 +1,16 @@
 ---
-title: Fast and Efficient Hardware Implementation of HQC 
+title: SDitH in Hardware 
 
-event:  CBCrypto 2023 - International Workshop on Code-Based Cryptography
+event:  CBCrypto 2024 - International Workshop on Code-Based Cryptography
 event_url: 
 
-location: CBCrypto 2023
+location: CBCrypto 2024
 address:
   street: 
-  city: 
-  region: Lyon
+  city: Zurich
+  region: 
   postcode: ''
-  country: France
+  country: Switzerland
 
 summary: 
 abstract: 
@@ -18,13 +18,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-04-22T00:00:00Z'
-date_end: '2023-04-22T00:00:00Z'
+date: '2024-05-25T00:00:00Z'
+date_end: '2024-05-25T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-04-22T00:00:00Z'
-
+publishDate: '2024-05-25T00:00:00Z'
 authors: ['Sanjay Deshpande']
 tags: [Cryptography]
 
@@ -42,7 +41,7 @@ links:
     url: 
 url_code: ''
 url_pdf: ''
-url_slides: 'https://csrc.nist.gov/csrc/media/Presentations/2022/a-fast-hardware-implementation-of-hqc/images-media/session6-deshpande-fast-hardware-implmentation-pqc2022.pdf'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
