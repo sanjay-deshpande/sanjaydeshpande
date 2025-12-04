@@ -29,7 +29,7 @@ authors: ['Sanjay Deshpande']
 tags: [Quantum Computer Security]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # image:
 #   caption: ''
