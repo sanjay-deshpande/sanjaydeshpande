@@ -34,15 +34,15 @@ featured: false
 #   caption: ''
 #   focal_point: 
 
-links:
-  - icon: 
-    icon_pack: 
-    name: 
-    url: 
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# links:
+#   - icon: 
+#     icon_pack: 
+#     name: 
+#     url: 
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

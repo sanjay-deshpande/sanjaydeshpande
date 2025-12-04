@@ -35,15 +35,15 @@ featured: false
 #   caption: ''
 #   focal_point: 
 
-links:
-  - icon: 
-    icon_pack: 
-    name: 
-    url:
-url_code: ''
-url_pdf: ''
-url_slides: 'https://csrc.nist.gov/csrc/media/Presentations/2022/complete-and-improved-fpga-implementation-of-class/images-media/session6-deshpande-complete-and-improved-fpga-pqc2022.pdf'
-url_video: ''
+# links:
+#   - icon: 
+#     icon_pack: 
+#     name: 
+#     url:
+# url_code: ''
+# url_pdf: ''
+# url_slides: 'https://csrc.nist.gov/csrc/media/Presentations/2022/complete-and-improved-fpga-implementation-of-class/images-media/session6-deshpande-complete-and-improved-fpga-pqc2022.pdf'
+# url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
