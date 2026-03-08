@@ -244,7 +244,8 @@ sections:
     design:
       columns: '2'
       view: citation  
-  -block: collection
+
+  - block: collection
     id: service
     content:
       title: Service
@@ -254,6 +255,7 @@ sections:
     design:
       columns: '2'
       view: list
+      
 #  - block: collection
 #    id: posts
 #    content:
