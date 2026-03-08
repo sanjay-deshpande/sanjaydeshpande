@@ -2,15 +2,15 @@
 title: International Symposium on Circuits and Systems (ISCAS) 2024 - Reviewer
 
 event: International Symposium on Circuits and Systems (ISCAS) 2024
-event_url: https://iscas2024.org/
+event_url: https://2024.iccas.org/
 
-location: Singapore
+location: South Korea
 address:
   street:
-  city: Singapore
+  city: Jeju
   region:
   postcode: ''
-  country: Singapore
+  country: South Korea
 
 summary: Served as reviewer for ISCAS 2024
 abstract: Reviewed research papers on circuits, systems, and signal processing for the premier IEEE circuits and systems conference.

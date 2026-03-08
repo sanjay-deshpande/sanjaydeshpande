@@ -244,6 +244,16 @@ sections:
     design:
       columns: '2'
       view: citation  
+  -block: collection
+    id: service
+    content:
+      title: Service
+      filters:
+        folders:
+          - service
+    design:
+      columns: '2'
+      view: list
 #  - block: collection
 #    id: posts
 #    content:
