@@ -248,14 +248,14 @@ sections:
   - block: collection
     id: service
     content:
-      title: Service
+      title: Academic Service
       filters:
         folders:
           - service
     design:
       columns: '2'
       view: list
-      
+
 #  - block: collection
 #    id: posts
 #    content:
