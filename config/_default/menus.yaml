@@ -30,19 +30,11 @@ main:
   - name: Publications
     url: '#featured'
     weight: 60
-    
+
   - name: Academic Service
     url: '#service'
     weight: 70
-    hasChildren: true
-  - name: Academic Reviewing
-    parent: Academic Service
-    url: '#academic-reviewing'
-    weight: 71
-  - name: Organization
-    parent: Academic Service
-    url: '#organization'
-    weight: 72
+
   
   # - name: Contact
     # url: '#contact'
