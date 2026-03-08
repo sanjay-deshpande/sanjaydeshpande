@@ -29,16 +29,16 @@ main:
     weight: 60
   - name: Academic Service
     url: '#service'
-    weight: 50
+    weight: 70
     hasChildren: true
   - name: Academic Reviewing
     parent: Academic Service
     url: '#academic-reviewing'
-    weight: 51
+    weight: 71
   - name: Organization
     parent: Academic Service
     url: '#organization'
-    weight: 52
+    weight: 72
   
   # - name: Contact
     # url: '#contact'
