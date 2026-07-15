@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: (conference-paper.pdf)
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -82,5 +82,5 @@ image:
 # slides: conference_paper.pdf
 ---
 
-Poster: [Demo Poster (PDF)](conference-paper.pdf)
+<!-- Poster: [Demo Poster (PDF)](conference-paper.pdf) -->
 
