@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: conference-paper.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -79,6 +79,6 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: conference_paper.pdf
+# slides: conference_paper.pdf
 ---
 
