@@ -14,7 +14,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 
+  - Best Demo Award - Second Place 
   - 
   - 
   -
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: [pdf](conference-paper.pdf)
+url_pdf: 'https://mainarke.github.io/assets/papers/host26_huizhen.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
