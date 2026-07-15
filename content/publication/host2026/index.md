@@ -82,5 +82,5 @@ image:
 # slides: conference_paper.pdf
 ---
 
-Download: [Conference paper (PDF)](conference-paper.pdf)
+Poster: [Demo Poster (PDF)](conference-paper.pdf)
 
