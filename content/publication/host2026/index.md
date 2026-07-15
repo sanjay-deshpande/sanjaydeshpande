@@ -4,7 +4,6 @@ title: 'Correlation Power Analysis of Hamming-Quasi Cyclic'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-Zhou, Huizhen and Beckwith, Luke and Deshpande, Sanjay and Zhang, Xiaokuan and Gaj, Kris and Szefer, Jaku
 authors:
   - Huizhen Zhou
   - Luke Beckwith
@@ -52,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'conference_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
