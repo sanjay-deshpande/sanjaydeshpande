@@ -4,7 +4,7 @@ title: Towards Securing the Quantum Era
 event: Invited talk at Public Key Infrastructure and its Applications (PKIA 2026)
 event_url: 'https://www.pkiindia.in/pkia/'
 
-location: University of Ottawa
+location: 
 address:
   street: 
   city: Banglore
