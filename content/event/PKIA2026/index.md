@@ -13,9 +13,11 @@ address:
   country: India
 
 summary: 
-abstract: The rapid advancement of quantum computing promises groundbreaking developments across many fields, but it also threatens the pre-quantum cryptographic systems we currently rely on. The race is on to transition to quantum-safe cryptography before quantum computers reach a critical threshold. At the heart of this global effort lies Post-Quantum Cryptography (PQC), a new generation of algorithms believed to be secure against both quantum and classical attacks. This talk explores the challenges and innovations in the transition to PQC, focusing on the role of hardware and software implementation and evaluation in ensuring both performance and security. It takes a deep dive into the Hamming Quasi-Cyclic (HQC) algorithm, selected for standardization by NIST in 2025, and examines how HQC performs under practical constraints and potential side-channel threats.
-Complementing this effort to safeguard classical data against quantum attacks, the talk also turns to the security of the quantum computers themselves. It shows how today's cloud-based quantum systems can be susceptible to low-level vulnerabilities and proposes novel methods of protection. Together, these threads offer a holistic approach to security in the quantum era.
- 
+abstract: >-
+  The rapid advancement of quantum computing promises groundbreaking developments across many fields, but it also threatens the pre-quantum cryptographic systems we currently rely on. The race is on to transition to quantum-safe cryptography before quantum computers reach a critical threshold. At the heart of this global effort lies Post-Quantum Cryptography (PQC), a new generation of algorithms believed to be secure against both quantum and classical attacks. This talk explores the challenges and innovations in the transition to PQC, focusing on the role of hardware and software implementation and evaluation in ensuring both performance and security. It takes a deep dive into the Hamming Quasi-Cyclic (HQC) algorithm, selected for standardization by NIST in 2025, and examines how HQC performs under practical constraints and potential side-channel threats.
+
+
+  Complementing this effort to safeguard classical data against quantum attacks, the talk also turns to the security of the quantum computers themselves. It shows how today's cloud-based quantum systems can be susceptible to low-level vulnerabilities and proposes novel methods of protection. Together, these threads offer a holistic approach to security in the quantum era.
 
 
 # Talk start and end times.
