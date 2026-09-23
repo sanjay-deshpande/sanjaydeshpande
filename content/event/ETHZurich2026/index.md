@@ -1,14 +1,14 @@
 ---
 title: Towards Securing the Quantum Era 
 
-event: Invited talk at Public Key Infrastructure and its Applications (PKIA 2026)
+event: Invited talk at ETH Zurich's SAFARI Live Seminar 2026
 event_url: 'https://safari.ethz.ch/safari-live-seminar-sanjay-deshpande-sept-18-2026/'
 
-location: 
+location: ETH Zurich
 address:
   street: 
-  city: Zurich
-  region: 
+  city: Zürich
+  region:
   postcode: ''
   country: Switzerland
 
