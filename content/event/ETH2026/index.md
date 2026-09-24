@@ -1,5 +1,6 @@
 ---
 title: Towards Securing the Quantum Era 
+slug: eth2026
 
 event: Invited talk at ETH Zurich's SAFARI Live Seminar
 event_url: 'https://safari.ethz.ch/safari-live-seminar-sanjay-deshpande-sept-18-2026/'
@@ -7,7 +8,7 @@ event_url: 'https://safari.ethz.ch/safari-live-seminar-sanjay-deshpande-sept-18-
 location: ETH Zurich
 address:
   street: 
-  city: Zürich
+  city: Zurich
   region:
   postcode: ''
   country: Switzerland

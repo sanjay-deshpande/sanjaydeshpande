@@ -1,5 +1,6 @@
 ---
 title: Towards Securing the Quantum Era 
+slug: pkia2026
 
 event: Invited talk at Public Key Infrastructure and its Applications (PKIA 2026)
 event_url: 'https://www.pkiindia.in/pkia/'
