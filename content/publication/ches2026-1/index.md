@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'conference-paper.pdf'
+url_pdf: 'https://sanjaydeshpande.phd/slides/2026_CHES_HQC_poster.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
