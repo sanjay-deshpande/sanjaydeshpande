@@ -1,17 +1,17 @@
 ---
-title: 'Storing Less in-the-Head: An Area-Efficient Hardware Architecture for SDitH-v2'
+title: 'CKKS Acceleration for Next-Wave Homomorphic Encryption'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 
 authors:
-  - Stef Halmans
-  - Niklas Höher
-  - Dina Hesse
+  - Xuan Wang
   - Sanjay Deshpande
+  - Jaehyung Kim
   - Jakub Szefer
-  - Tim Güneysu
+  - Tajana Rosing
+  - Patrick Longa
 
 # Author notes (optional)
 author_notes:
@@ -22,7 +22,7 @@ author_notes:
   -
   -
 
-date: '2026-05-15T00:00:00Z'
+date: '2026-11-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -45,14 +45,14 @@ abstract: ''
 tags: [Cryptography]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://eprint.iacr.org/2026/938'
+url_pdf: 'https://eprint.iacr.org/2026/2921'
 url_code: ''
 url_dataset: ''
 url_poster: ''
