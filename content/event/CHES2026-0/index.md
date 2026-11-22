@@ -1,6 +1,6 @@
 ---
 title: Accelerating FrodoKEM in Hardware
-slug: ches2026
+slug: ches2026-0
 
 event:  IACR Transactions on Cryptographic Hardware and Embedded Systems 2026
 event_url: 

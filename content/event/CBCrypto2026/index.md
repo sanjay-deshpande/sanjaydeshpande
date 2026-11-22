@@ -1,5 +1,6 @@
 ---
 title: Performance Analysis of Parameterizable HQC Hardware Architecture 
+slug: cbcrypto2026
 
 event:  CBCrypto 2026 - International Workshop on Code-Based Cryptography
 event_url: 
@@ -18,12 +19,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-09T00:00:00Z'
+date: '2026-05-09T00:00:00Z'
 # date_end: '2024-05-25T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-05-09T00:00:00Z'
+publishDate: '2026-05-09T00:00:00Z'
 authors: ['Sanjay Deshpande']
 tags: [Cryptography]
 

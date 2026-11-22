@@ -1,0 +1,59 @@
+.portrait-title h2 {
+  font-size: 1.4em;
+  font-weight: 700;
+}
+
+.section-heading h1 {
+  font-size: 1.4em;
+}
+
+#news td:first-child,
+#news th:first-child,
+#service td:first-child,
+#service th:first-child,
+#awards td:first-child,
+#awards th:first-child,
+#experience td:nth-child(2),
+#experience th:nth-child(2) {
+  white-space: nowrap;
+  padding-right: 1.5em;
+}
+
+#experience td {
+  vertical-align: top;
+}
+
+#experience td:first-child,
+#experience th:first-child {
+  width: 190px;
+  text-align: center;
+}
+
+.exp-logo {
+  display: block;
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  margin: 0 auto 4px;
+}
+
+.exp-org {
+  display: block;
+  font-weight: 700;
+  font-size: 0.9em;
+  line-height: 1.3;
+}
+
+.exp-loc {
+  display: block;
+  font-size: 0.8em;
+  color: #6c757d;
+  line-height: 1.3;
+}
+
+.exp-detail {
+  display: block;
+  font-size: 0.85em;
+  color: #6c757d;
+  margin-top: 2px;
+}

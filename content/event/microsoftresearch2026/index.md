@@ -1,5 +1,6 @@
 ---
 title: Hardware Realization and Implementation Security Evaluation of HQC
+slug: microsoftresearch2026
 
 event: Invited seminar at Microsoft Research
 event_url: 

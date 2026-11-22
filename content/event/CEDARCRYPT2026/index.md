@@ -1,5 +1,6 @@
 ---
 title: Implementing PQC in Hardware 
+slug: cedarcrypt2026
 
 event: Invited Lecture at Cedarcrypt 2026
 event_url: 'https://cedarcrypt.org/'

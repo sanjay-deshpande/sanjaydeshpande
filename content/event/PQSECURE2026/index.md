@@ -1,5 +1,6 @@
 ---
 title: Hardware Realization and Implementation Security Evaluation of HQC
+slug: pqsecure2026
 
 event: Invited talk at PQSecure Technologies
 event_url: 

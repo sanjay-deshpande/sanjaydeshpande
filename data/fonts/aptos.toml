@@ -1,0 +1,8 @@
+name = "Aptos"
+
+google_fonts = "family=Roboto+Mono"
+
+heading_font = "Aptos"
+body_font = "Aptos"
+nav_font = "Aptos"
+mono_font = "Roboto Mono"

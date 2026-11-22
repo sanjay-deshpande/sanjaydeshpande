@@ -1,5 +1,6 @@
 ---
 title: Performance Analysis of Parameterizable HQC Hardware Architecture 
+slug: sac2026
 
 event: Selected Areas in Cryptography 2026
 event_url: 'https://sacworkshop.org/SAC26/'

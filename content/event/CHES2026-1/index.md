@@ -1,6 +1,6 @@
 ---
 title: Correlation Power Analysis of Hamming Quasi-Cyclic
-slug: ches2026
+slug: ches2026-1
 
 event:  IACR Transactions on Cryptographic Hardware and Embedded Systems 2026
 event_url: 

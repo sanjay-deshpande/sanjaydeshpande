@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sanjay Deshpande
+title: Sanjay Deshpande, Ph.D.
 
 # Full name (for SEO)
 first_name: Sanjay
@@ -36,6 +36,12 @@ education:
     - course: PhD in Electrical Engineering
       institution: Yale University
       year: 2025
+    - course: MS in Electrical Engineering
+      institution: Yale University
+      year: 2024
+    - course: MPhil in Electrical Engineering
+      institution: Yale University
+      year: 2024
     - course: MS in Computer Engineering
       institution: George Mason University
       year: 2016
@@ -60,7 +66,16 @@ social:
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=1MGc59UAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=1MGc59UAAAAJ&hl=en
+    label: Google Scholar
+    display:
+      header: true
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0005-0938-9547
+    label: ORCID
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/sanjay-deshpande

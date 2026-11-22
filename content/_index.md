@@ -49,6 +49,30 @@ sections:
 #          icon_pack: fas
     design:
       columns: '2'
+
+  - block: markdown
+    id: news
+    content:
+      title: News
+      text: |-
+        | Date | News |
+        |------|------|
+        | **Nov 2026** | Paper ["Storing Less in-the-Head: An Area-Efficient Hardware Architecture for SDitH-v2"](/publication/asiacrypt2026/) accepted at Asiacrypt 2026. |
+        | **Nov 2026** | New preprint: ["CKKS Acceleration for Next-Wave Homomorphic Encryption"](/publication/2026_eprint/). |
+        | **Oct 2026** | Presented ["Accelerating FrodoKEM in Hardware"](/talk/ches2026-0/) and ["Correlation Power Analysis of Hamming-Quasi Cyclic (Extended)"](/talk/ches2026-1/) at CHES 2026. |
+        | **Sep 2026** | [Guest lecture at Vellore Institute of Technology (VIT)](/talk/vit2026/). |
+        | **Sep 2026** | [Invited talk at ETH Zurich's SAFARI Live Seminar](/talk/eth2026/). |
+        | **Sep 2026** | [Invited talk at PKIA 2026, Bengaluru](/talk/pkia2026/). |
+        | **Aug 2026** | [Presented at Selected Areas in Cryptography (SAC) 2026, Ottawa](/talk/sac2026/). |
+        | **Jul 2026** | [Invited lecture at Cedarcrypt 2026](/talk/cedarcrypt2026/). |
+        | **May 2026** | Received the Best Hardware Demo Award (2nd Place) at IEEE HOST 2026 for ["Correlation Power Analysis of Hamming Quasi-Cyclic"](/publication/host2026/). |
+        | **May 2026** | Presented ["Performance Analysis of Parameterizable HQC Hardware Architecture"](/talk/cbcrypto2026/) at CBCrypto 2026. |
+        | **May 2026** | Paper ["Correlation Power Analysis of Hamming-Quasi Cyclic"](/publication/host2026/) at IEEE HOST 2026. |
+        | **Apr 2026** | [Invited talk at PQSecure Technologies](/talk/pqsecure2026/). |
+        | **Jan 2026** | [Invited seminar at Microsoft Research](/talk/microsoftresearch2026/). |
+        | **Jan 2026** | Paper ["Accelerating FrodoKEM in Hardware"](/publication/ches2026-0/) accepted at CHES 2026. |
+    design:
+      columns: '2'
   
  
   - block: collection
@@ -116,98 +140,37 @@ sections:
 #      columns: '1'
   
   
-  - block: experience
+  - block: markdown
     id: experience
     content:
       title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title:  Postdoctoral Scholar
-          company: Northwestern University
-          company_url: 'https://www.northwestern.edu/'
-          company_logo: northwestern-logo
-          location: Evanston, USA
-          date_start: '2025-06-01'
-          date_end: #'2025-06-01'
-          description:
-        - title:  Research Associate, Teaching Fellow, and Ph.D. Student
-          company: Yale University
-          company_url: 'https://www.yale.edu/'
-          company_logo: yale-logo-blue
-          location: New Haven, USA
-          date_start: '2020-10-26'
-          date_end: '2025-06-01'
-          description:
-        - title: PQC Research Scientist Resident
-          company: SandboxAQ
-          company_url: 'https://www.sandboxaq.com/'
-          company_logo: sandboxaq_logo
-          location: Palo Alto, USA
-          date_start: '2024-11-01'
-          date_end: '2025-05-31'
-          description:
-        - title: Research Intern
-          company: Microsoft Research
-          company_url: 'https://www.microsoft.com/en-us/research/'
-          company_logo: microsoft_logo
-          location: Redmond, USA
-          date_start: '2024-06-10'
-          date_end: '2024-08-30'
-          description:
-        - title: PQC Research Scientist Resident
-          company: SandboxAQ
-          company_url: 'https://www.sandboxaq.com/'
-          company_logo: sandboxaq_logo
-          location: Palo Alto, USA
-          date_start: '2023-04-01'
-          date_end: '2023-12-22'
-          description:
-        - title: Hardware Security Researcher
-          company: Technology Innovation Institute
-          company_url: 'https://www.tii.ae/'
-          company_logo: tii_logo
-          location: Abu Dhabi, UAE
-          date_start: '2019-04-01'
-          date_end: '2020-07-05'
-          description:
-        - title:  Research Assistant, Teaching Assistant, Lab Assitant, and Graduate Student 
-          company: George Mason University
-          company_url: 'https://www.gmu.edu/'
-          company_logo: gmu_logo
-          location: Virginia, USA
-          date_start: '2014-08-15'
-          date_end: '2017-01-15'
-          description:
+      text: |-
+        ### Academic Appointments
+
+        | Organization | Date | Position |
+        |---|------|------|
+        | <a href="https://www.northwestern.edu/" target="_blank" rel="noopener"><img class="exp-logo" src="/media/logos/northwestern-logo.png" alt="Northwestern University"></a><a class="exp-org" href="https://www.northwestern.edu/" target="_blank" rel="noopener">Northwestern University</a><span class="exp-loc">Evanston, IL, USA</span> | **Jun 2025 – present** | **Postdoctoral Scholar**, Computer Architecture and Security Lab<span class="exp-detail">PI: Prof. Jakub Szefer</span><span class="exp-detail">FHE hardware acceleration; side-channel security of PQC; integrity verification for cloud quantum computers.</span> |
+        | <a href="https://www.sinica.edu.tw/en" target="_blank" rel="noopener"><img class="exp-logo" src="/media/logos/academia-sinica.png" alt="Academia Sinica"></a><a class="exp-org" href="https://www.sinica.edu.tw/en" target="_blank" rel="noopener">Academia Sinica</a><span class="exp-loc">Taipei, Taiwan</span> | **Nov 2025** | **Visiting Scholar**<span class="exp-detail">Host: Prof. Ruben Niederhagen</span><span class="exp-detail">Standardized evaluation methodology for fair comparison of post-quantum cryptographic hardware implementations.</span> |
+        | <a href="https://www.yale.edu/" target="_blank" rel="noopener"><img class="exp-logo" src="/media/logos/yale-logo-blue.svg" alt="Yale University"></a><a class="exp-org" href="https://www.yale.edu/" target="_blank" rel="noopener">Yale University</a><span class="exp-loc">New Haven, CT, USA</span> | **Aug 2021 – May 2025** | **Research Assistant**, Computer Architecture and Security Lab<span class="exp-detail">PI: Prof. Jakub Szefer</span><span class="exp-detail">Efficient FPGA and ASIC architectures for NIST post-quantum KEMs and digital signatures; security of cloud-based quantum computers.</span> |
+        | <a href="https://www.yale.edu/" target="_blank" rel="noopener"><img class="exp-logo" src="/media/logos/yale-logo-blue.svg" alt="Yale University"></a><a class="exp-org" href="https://www.yale.edu/" target="_blank" rel="noopener">Yale University</a><span class="exp-loc">New Haven, CT, USA</span> | **Oct 2020 – Aug 2021** | **Associate Researcher**, Computer Architecture and Security Lab<span class="exp-detail">PI: Prof. Jakub Szefer</span><span class="exp-detail">FPGA implementations of public-key and post-quantum cryptographic primitives; RISC-V cryptographic accelerators.</span> |
+        | <a href="https://www.gmu.edu/" target="_blank" rel="noopener"><img class="exp-logo" src="/media/logos/gmu-logo.png" alt="George Mason University"></a><a class="exp-org" href="https://www.gmu.edu/" target="_blank" rel="noopener">George Mason University</a><span class="exp-loc">Fairfax, VA, USA</span> | **Aug 2015 – Dec 2016** | **Research Assistant**, Cryptographic Engineering Research Group (CERG)<span class="exp-detail">PI: Prof. Kris Gaj</span><span class="exp-detail">High-throughput FPGA architectures for authenticated ciphers in the CAESAR competition.</span> |
+
+        ### [Teaching Appointments](/teaching/)
+
+        | Organization | Date | Position |
+        |---|------|------|
+        | <a href="https://www.yale.edu/" target="_blank" rel="noopener"><img class="exp-logo" src="/media/logos/yale-logo-blue.svg" alt="Yale University"></a><a class="exp-org" href="https://www.yale.edu/" target="_blank" rel="noopener">Yale University</a><span class="exp-loc">New Haven, CT, USA</span> | **Fall 2022 – Spring 2024** | **Teaching Fellow**<span class="exp-detail">[EENG201: Introduction to Computer Engineering](/teaching/yale_spring24_eeng201/) ([Spring 2023](/teaching/yale_spring23_eeng201/), [Spring 2024](/teaching/yale_spring24_eeng201/); ~100 students)</span><span class="exp-detail">[CPSC415/515: Law, Security, and Logic](/teaching/yale_fall22_cpsc415/) ([Fall 2022](/teaching/yale_fall22_cpsc415/); ~50 students)</span> |
+        | <a href="https://www.gmu.edu/" target="_blank" rel="noopener"><img class="exp-logo" src="/media/logos/gmu-logo.png" alt="George Mason University"></a><a class="exp-org" href="https://www.gmu.edu/" target="_blank" rel="noopener">George Mason University</a><span class="exp-loc">Fairfax, VA, USA</span> | **Fall 2015 – Fall 2016** | **Teaching Assistant**<span class="exp-detail">[ECE334: Linear Electronics Lab](/teaching/gmu_fall16_ece334/) ([Fall 2015](/teaching/gmu_fall15_ece334/), [Fall 2016](/teaching/gmu_fall16_ece334/); 3 sections of ~50 students)</span><span class="exp-detail">[ECE448: FPGA Design with VHDL Lab](/teaching/gmu_spring16_ece448/) ([Spring 2016](/teaching/gmu_spring16_ece448/); ~50 students)</span><span class="exp-detail">[ECE545: Digital System Design with VHDL](/teaching/gmu_fall16_ece545/) ([Fall 2015](/teaching/gmu_fall15_ece545/), [Fall 2016](/teaching/gmu_fall16_ece545/); ~25 students)</span><span class="exp-detail">ECE232: Digital System Design Lab (Summer 2016; ~50 students)</span> |
+
+        ### Industry Research Experience
+
+        | Organization | Date | Position |
+        |---|------|------|
+        | <a href="https://www.sandboxaq.com/" target="_blank" rel="noopener"><img class="exp-logo" src="/media/logos/sandboxaq-logo.png" alt="SandboxAQ"></a><a class="exp-org" href="https://www.sandboxaq.com/" target="_blank" rel="noopener">SandboxAQ</a><span class="exp-loc">Palo Alto, CA, USA</span> | **Nov 2024 – May 2025**<br>**Apr – Dec 2023** | **PQC Research Scientist Resident**<span class="exp-detail">Hardware architectures and performance evaluation for NIST additional post-quantum signature candidates (SDitH) and the NIST-proposed Rijndael-256; open-source RTL released.</span> |
+        | <a href="https://www.microsoft.com/en-us/research/" target="_blank" rel="noopener"><img class="exp-logo" src="/media/logos/microsoft-logo.png" alt="Microsoft Research"></a><a class="exp-org" href="https://www.microsoft.com/en-us/research/" target="_blank" rel="noopener">Microsoft Research</a><span class="exp-loc">Redmond, WA, USA</span> | **Jun – Aug 2024** | **Research Intern**<span class="exp-detail">Reconfigurable, side-channel-protected ASIC architecture for an ISO-standardized post-quantum KEM with runtime security-level switching; open-source RTL released.</span> |
+        | <a href="https://www.tii.ae/" target="_blank" rel="noopener"><img class="exp-logo" src="/media/logos/tii-logo.png" alt="Technology Innovation Institute"></a><a class="exp-org" href="https://www.tii.ae/" target="_blank" rel="noopener">Technology Innovation Institute</a><span class="exp-loc">(formerly DarkMatter LLC)</span><span class="exp-loc">Abu Dhabi, UAE</span> | **Mar 2017 – Jul 2020** | **Senior Security Researcher**<span class="exp-detail">Production-grade FPGA/ASIC IP for symmetric and asymmetric (elliptic-curve and post-quantum) cryptography; side-channel analysis; hardware reverse engineering and device security assessment.</span> |
     design:
       columns: '2'
-  
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      columns: '2'
-      view: list
   
   - block: collection
     id: talks
@@ -245,16 +208,57 @@ sections:
       columns: '2'
       view: citation  
 
-  - block: collection
+  - block: markdown
     id: service
     content:
       title: Academic Service
-      filters:
-        folders:
-          - service
+      text: |-
+        ### Organizing Committee Member
+
+        | Date | Role |
+        |------|------|
+        | **Apr 2027** | Publicity Chair, New England Hardware Security Day (NEHWS) 2027 |
+        | **Nov 2026** | Poster Session Chair, Quantum Computer Cybersecurity Symposium (QCCS) 2026 |
+        | **Apr 2026** | Web Chair, New England Hardware Security Day (NEHWS) 2026 |
+
+        ### Program Committee Member
+
+        | Date | Venue |
+        |------|------|
+        | **Nov 2026** | Design Automation Conference (DAC) 2027 |
+        | **Nov 2026** | IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2027 |
+        | **Oct 2026** | IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2027 |
+        | **Aug 2026** | Hardware and Architectural Support for Security and Privacy (HASP) 2026 |
+        | **Jun 2026** | International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE) 2026 |
+        | **Dec 2025** | IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2026 |
+        | **Oct 2025** | ACM QSec: Quantum Security and Privacy Workshop (co-located with ACM CCS 2025) |
+        | **Sep 2025** | Hardware and Architectural Support for Security and Privacy (HASP) 2025 |
+
+        ### Academic Reviewing Service
+
+        | Date | Venue |
+        |------|------|
+        | **Mar 2026** | IEEE Symposium on Security and Privacy 2026 |
+        | **Nov 2025** | International Symposium on Circuits and Systems (ISCAS) 2026 |
+        | **Oct 2025** | Journal of Systems Architecture |
+        | **Oct 2025** | IEEE Transactions on Computers |
+        | **Jul 2025** | CHIPS Journal |
+        | **Jun 2024** | IEEE Computer Architecture Letters |
+        | **Dec 2023** | International Symposium on Circuits and Systems (ISCAS) 2024 |
+
+        ### Artifact Evaluation Committee Member
+
+        | Date | Venue |
+        |------|------|
+        | **Oct 2026** | IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2027 |
+
+        ### Session Chair
+
+        | Date | Venue |
+        |------|------|
+        | **Mar 2026** | 2<sup>nd</sup> IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT and Microelectronics (SaTC 2026) |
     design:
       columns: '2'
-      view: list
 
 #  - block: collection
 #    id: posts
@@ -318,55 +322,20 @@ sections:
 #        {{< gallery album="demo" >}}
 #    design:
 #      columns: '1'
-  - block: accomplishments
+  - block: markdown
+    id: awards
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: 
-          date_end: ''
-          date_start: '2023-12-01'
-          description: ''
-          organization: IEEE Computer Architecture Letters
-          organization_url: https://www.computer.org/csdl/journal/ca
-          title: Best of IEEE CAL award for the year 2023
-          url: ''
-
-        - certificate_url: 
-          date_end: ''
-          date_start: '2023-09-15'
-          description: ''
-          organization: Cyber-physical Systems Summer School
-          organization_url: https://www.cpsschool.eu/cps-summer-school-2023/
-          title: Best Project Award
-          url: ''
-
-        - certificate_url: 
-          date_end: ''
-          date_start: '2017-05-01'
-          description: ''
-          organization: George Mason University
-          organization_url: https://www.gmu.edu/
-          title: Outstanding Academic Acheivement Award
-          url: ''
-
-        - certificate_url: 
-          date_end: ''
-          date_start: '2014-05-01'
-          description: ''
-          organization: Jawaharlal Nehru Technological University
-          organization_url: https://www.jntuh.ac.in/
-          title: Certificate of Excellence in Academics
-          url: ''
-          
+      title: Awards
+      text: |-
+        | Date | Award |
+        |------|------|
+        | **May 2026** | Best Hardware Demo Award (2nd Place), IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2026, for ["Correlation Power Analysis of Hamming Quasi-Cyclic"](/publication/host2026/) |
+        | **Sep 2025** | Best Project Award, [Cyber-Physical Systems Summer School](https://www.cpsschool.eu/), Sardinia, Italy |
+        | **Dec 2023** | Best of [IEEE Computer Architecture Letters](https://www.computer.org/csdl/journal/ca) (CAL) Award, for ["A Quantum Computer Trusted Execution Environment"](/publication/cal2023/) |
+        | **May 2016** | Outstanding Academic Achievement Award, Department of ECE, [George Mason University](https://www.gmu.edu/) |
+        | **Dec 2015** | Best Project Award (3rd Place), Cryptography and Computer Network Security course, [George Mason University](https://www.gmu.edu/) |
+        | **Jul 2014** | Certificate of Excellence in Academics, [Jawaharlal Nehru Technological University](https://www.jntuh.ac.in/) |
+        | **Oct 2013** | First Prize, Robocup 2k14 (zonal), [Jawaharlal Nehru Technological University](https://www.jntuh.ac.in/) |
     design:
       columns: '2'
 #  - block: tag_cloud
