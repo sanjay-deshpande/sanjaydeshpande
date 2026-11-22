@@ -24,7 +24,7 @@ sections:
         gradient_end: 
         gradient_start: 
         text_color_light:
-  - block: about.avatar
+  - block: about.biography
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
