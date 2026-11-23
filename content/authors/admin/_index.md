@@ -22,7 +22,7 @@ organizations:
     url: https://www.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Hardware Design, Cryptography, Post-Quantum Cryptography and Quantum Computer Security.
+bio: My research interests include Hardware acceleration of post-quantum cryptography and fully homomorphic encryption; implementation security, including side-channel analysis and countermeasures; cybersecurity of quantum computing systems.
 
 # Interests to show in About widget
 interests:
