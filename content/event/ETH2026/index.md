@@ -1,5 +1,6 @@
 ---
 title: Towards Securing the Quantum Era 
+talk_type: invited
 slug: eth2026
 
 event: Invited talk at ETH Zurich's SAFARI Live Seminar

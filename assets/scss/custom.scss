@@ -51,6 +51,53 @@
   line-height: 1.3;
 }
 
+.talks-table td {
+  vertical-align: top;
+}
+
+.talks-table td:first-child,
+.talks-table th:first-child {
+  white-space: nowrap;
+  padding-right: 1.5em;
+}
+
+.talk-group {
+  margin-bottom: 1.5em;
+}
+
+.talk-group .talk-extra,
+.talk-group .when-expanded,
+.talk-group.show-all .when-collapsed {
+  display: none;
+}
+
+.talk-group.show-all .talk-extra {
+  display: table-row;
+}
+
+.talk-group.show-all .when-expanded {
+  display: inline;
+}
+
+.talk-toggle {
+  font-size: 0.9em;
+  font-weight: 600;
+}
+
+.talk-title {
+  font-weight: 700;
+}
+
+.talk-links {
+  display: block;
+  font-size: 0.85em;
+  margin-top: 2px;
+}
+
+.talk-links a + a {
+  margin-left: 1em;
+}
+
 .exp-detail {
   display: block;
   font-size: 0.85em;

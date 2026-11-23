@@ -172,41 +172,27 @@ sections:
     design:
       columns: '2'
   
-  - block: collection
+  - block: talks_table
     id: talks
     content:
       title: Talks
-      filters:
-        folders:
-          - event
     design:
       columns: '2'
-      view: list
-  - block: collection
+  - block: pubs_table
     id: featured
     content:
       title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      featured_only: true
+      limit: 5
     design:
       columns: '2'
-      view: card
-  - block: collection
+  - block: pubs_table
+    id: publications
     content:
       title: All Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      limit: 5
     design:
       columns: '2'
-      view: citation  
 
   - block: markdown
     id: service

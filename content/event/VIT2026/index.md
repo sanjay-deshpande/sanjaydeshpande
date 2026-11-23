@@ -1,5 +1,6 @@
 ---
 title: Implementing Post-Quantum Cryptography and Security of Quantum Computers 
+talk_type: invited
 slug: vit2026
 
 event: Guest Lecture at Vellore Institute of Technology (VIT) 2026

@@ -1,5 +1,6 @@
 ---
 title: Hardware Implementation Efficiency and Security Evaluation of HQC - A NIST PQC Standard
+talk_type: invited
 event: Invited Seminar - Dept. of Electrical and Computer Engineering department, Northwestern University
 event_url: 
 

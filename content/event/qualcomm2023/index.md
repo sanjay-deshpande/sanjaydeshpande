@@ -1,5 +1,6 @@
 ---
 title: Fast and Efficient Hardware Implementation of HQC
+talk_type: invited
 
 event: Invited Tech Talk at Qualcomm
 event_url: 

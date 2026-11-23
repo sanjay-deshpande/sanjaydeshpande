@@ -1,5 +1,6 @@
 ---
 title: Hardware Implementation Efficiency and Security Evaluation of HQC - A NIST PQC Standard
+talk_type: invited
 
 event: Invited talk at Indian Institute of Technology
 event_url: 

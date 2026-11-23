@@ -1,5 +1,6 @@
 ---
 title: Implementing PQC in Hardware 
+talk_type: invited
 slug: cedarcrypt2026
 
 event: Invited Lecture at Cedarcrypt 2026

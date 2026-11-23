@@ -1,0 +1,49 @@
+{{ $block := .wcBlock }}
+{{ $pubs := (where site.RegularPages "Section" "publication").ByDate.Reverse }}
+{{ if $block.content.featured_only }}{{ $pubs = where $pubs "Params.featured" true }}{{ end }}
+{{ $limit := $block.content.limit | default 5 }}
+{{ $me := site.Params.highlight_author | default "Sanjay Deshpande" }}
+
+<div class="col-12 col-lg-8">
+<div class="talk-group">
+<table class="talks-table">
+  <thead>
+    <tr><th>Date</th><th>Publication</th></tr>
+  </thead>
+  <tbody>
+    {{ range $i, $p := $pubs }}
+    <tr{{ if ge $i $limit }} class="talk-extra"{{ end }}>
+      <td><strong>{{ $p.Date.Format "Jan 2006" }}</strong></td>
+      <td>
+        <a class="talk-title" href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+        {{ with $p.Params.authors }}
+        <span class="exp-detail">
+          {{- range $j, $a := . -}}
+            {{- if $j }}, {{ end -}}
+            {{- if eq (trim $a " ") $me }}<strong>{{ $a }}</strong>{{ else }}{{ $a }}{{ end -}}
+          {{- end -}}
+        </span>
+        {{ end }}
+        {{ with $p.Params.publication }}<span class="exp-detail"><em>{{ trim . " " | markdownify }}</em></span>{{ end }}
+        {{- if or $p.Params.url_pdf $p.Params.url_code $p.Params.url_slides $p.Params.url_video $p.Params.doi }}
+        <span class="talk-links">
+          {{- with $p.Params.url_pdf }}<a href="{{ . | relURL }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>{{ end -}}
+          {{- with $p.Params.url_code }}<a href="{{ . }}" target="_blank" rel="noopener"><i class="fas fa-code"></i> Code</a>{{ end -}}
+          {{- with $p.Params.url_slides }}<a href="{{ . | relURL }}" target="_blank" rel="noopener"><i class="fas fa-file-powerpoint"></i> Slides</a>{{ end -}}
+          {{- with $p.Params.url_video }}<a href="{{ . }}" target="_blank" rel="noopener"><i class="fas fa-video"></i> Video</a>{{ end -}}
+          {{- with $p.Params.doi }}<a href="https://doi.org/{{ . }}" target="_blank" rel="noopener"><i class="ai ai-doi"></i> DOI</a>{{ end -}}
+        </span>
+        {{- end }}
+      </td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+{{ if gt (len $pubs) $limit }}
+<a href="#" class="talk-toggle" onclick="this.closest('.talk-group').classList.toggle('show-all'); return false;">
+  <span class="when-collapsed">View full list ({{ len $pubs }}) &darr;</span>
+  <span class="when-expanded">Show less &uarr;</span>
+</a>
+{{ end }}
+</div>
+</div>

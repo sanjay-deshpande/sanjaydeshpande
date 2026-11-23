@@ -1,0 +1,46 @@
+{{ $all := (where site.RegularPages "Section" "event").ByDate.Reverse }}
+{{ $invited := where $all "Params.talk_type" "invited" }}
+{{ $conference := where $all "Params.talk_type" "!=" "invited" }}
+{{ $limit := 5 }}
+
+<div class="col-12 col-lg-8">
+{{ range (slice (dict "title" "Invited Talks" "talks" $invited) (dict "title" "Conference Talks" "talks" $conference)) }}
+{{ if .talks }}
+<div class="talk-group">
+<h3>{{ .title }}</h3>
+<table class="talks-table">
+  <thead>
+    <tr><th>Date</th><th>Talk</th></tr>
+  </thead>
+  <tbody>
+    {{ range $i, $t := .talks }}
+    <tr{{ if ge $i $limit }} class="talk-extra"{{ end }}>
+      <td><strong>{{ $t.Date.Format "Jan 2006" }}</strong></td>
+      <td>
+        <a class="talk-title" href="{{ $t.RelPermalink }}">{{ $t.Title }}</a>
+        <span class="exp-detail">
+          {{- with $t.Params.event_url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end -}}
+          {{- $t.Params.event | default "" | markdownify -}}
+          {{- if $t.Params.event_url }}</a>{{ end -}}
+        </span>
+        {{- if or $t.Params.url_slides $t.Params.url_video }}
+        <span class="talk-links">
+          {{- with $t.Params.url_slides }}<a href="{{ . | relURL }}" target="_blank" rel="noopener"><i class="fas fa-file-powerpoint"></i> Slides</a>{{ end -}}
+          {{- with $t.Params.url_video }}<a href="{{ . }}" target="_blank" rel="noopener"><i class="fas fa-video"></i> Video</a>{{ end -}}
+        </span>
+        {{- end }}
+      </td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+{{ if gt (len .talks) $limit }}
+<a href="#" class="talk-toggle" onclick="this.closest('.talk-group').classList.toggle('show-all'); return false;">
+  <span class="when-collapsed">View full list ({{ len .talks }}) &darr;</span>
+  <span class="when-expanded">Show less &uarr;</span>
+</a>
+{{ end }}
+</div>
+{{ end }}
+{{ end }}
+</div>
