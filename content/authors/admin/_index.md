@@ -107,7 +107,7 @@ I'm a postdoctoral scholar at [Northwestern University](https://www.northwestern
 ***My research focuses on securing computing systems for the quantum and AI era.***
 {style="text-align: justify;"}
 
-Before joining Northwestern, I completed my Ph.D. in Electrical Engineering at [Yale University](https://www.yale.edu/). My [doctoral research](https://www.proquest.com/docview/3299347889) focused on hardware design for post-quantum cryptography and quantum computer cybersecurity.
+Before joining Northwestern, I completed my Ph.D. in Electrical Engineering at [Yale University](https://www.yale.edu/). My [doctoral research](https://www.proquest.com/docview/3299347889) focused on hardware design for [post-quantum cryptography](https://www.nist.gov/cybersecurity-and-privacy/what-post-quantum-cryptography) and [quantum computer cybersecurity](https://arxiv.org/pdf/2510.07334).
 {style="text-align: justify;"}
 
 This site shares my research, publications, and open-source projects. Thanks for stopping by — feel free to reach out if you're working in this space or just curious!
