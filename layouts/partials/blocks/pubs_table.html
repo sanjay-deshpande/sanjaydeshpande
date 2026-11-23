@@ -25,13 +25,14 @@
         </span>
         {{ end }}
         {{ with $p.Params.publication }}<span class="exp-detail"><em>{{ trim . " " | markdownify }}</em></span>{{ end }}
-        {{- if or $p.Params.url_pdf $p.Params.url_code $p.Params.url_slides $p.Params.url_video $p.Params.doi }}
+        {{- if or $p.Params.url_pdf $p.Params.url_code $p.Params.url_slides $p.Params.url_video $p.Params.doi $p.Params.links }}
         <span class="talk-links">
           {{- with $p.Params.url_pdf }}<a href="{{ . | relURL }}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>{{ end -}}
           {{- with $p.Params.url_code }}<a href="{{ . }}" target="_blank" rel="noopener"><i class="fas fa-code"></i> Code</a>{{ end -}}
           {{- with $p.Params.url_slides }}<a href="{{ . | relURL }}" target="_blank" rel="noopener"><i class="fas fa-file-powerpoint"></i> Slides</a>{{ end -}}
           {{- with $p.Params.url_video }}<a href="{{ . }}" target="_blank" rel="noopener"><i class="fas fa-video"></i> Video</a>{{ end -}}
           {{- with $p.Params.doi }}<a href="https://doi.org/{{ . }}" target="_blank" rel="noopener"><i class="ai ai-doi"></i> DOI</a>{{ end -}}
+          {{- range $link := $p.Params.links }}{{ if $link.url }}<a href="{{ $link.url }}" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> {{ $link.name }}</a>{{ end }}{{ end -}}
         </span>
         {{- end }}
       </td>

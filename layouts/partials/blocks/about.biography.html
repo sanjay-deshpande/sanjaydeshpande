@@ -101,6 +101,7 @@
           <li>{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
+        {{ with $person.interests_note }}<p class="interests-note">{{ . | markdownify }}</p>{{ end }}
       </div>
       {{ end }}
 
@@ -113,7 +114,8 @@
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
+              {{ range .en_route }}<p class="course-en-route">{{ . }}</p>{{ end }}
+              <p class="institution">{{ with .thesis_url }}<a href="{{ . }}" target="_blank" rel="noopener">Thesis</a> | {{ end }}{{ .institution }}</p>
             </div>
           </li>
           {{ end }}

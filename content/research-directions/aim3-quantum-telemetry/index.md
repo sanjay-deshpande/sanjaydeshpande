@@ -26,3 +26,7 @@ Quantum machines constantly report on themselves: cloud providers publish the er
 ### Connections
 
 This direction shares controller-hardware foundations with [Securing Fault-Tolerant Quantum Computers](../aim4-fault-tolerant-qc/).
+
+### Relevant Publications
+
+1. Barbora Hrdá, **Sanjay Deshpande**, Theodoros Trochatos, and Jakub Szefer. [CHEQ: Towards Enabling Circuit Integrity Checking in Quantum Controllers](/publication/glsvlsi2025/). In *Proceedings of the Great Lakes Symposium on VLSI 2025*, GLSVLSI, pages 265–272, June 2025.

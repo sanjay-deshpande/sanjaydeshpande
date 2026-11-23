@@ -32,3 +32,7 @@ AI tools are beginning to generate hardware designs, yet they optimize for funct
 ### Connections
 
 This direction shares lattice arithmetic and hardware-design techniques with [Side-Channel-Secure Post-Quantum Cryptography](../aim1-side-channel-secure-pqc/).
+
+### Relevant Publications
+
+1. Xuan Wang, **Sanjay Deshpande**, Jaehyung Kim, Jakub Szefer, Tajana Rosing, and Patrick Longa. [CKKS Acceleration for Next-Wave Homomorphic Encryption](/publication/2026_eprint/). *Cryptology ePrint Archive*, Paper 2026/2921, 2026.

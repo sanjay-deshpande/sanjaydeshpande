@@ -26,9 +26,14 @@ bio: My research interests include Hardware Design, Cryptography, Post-Quantum C
 
 # Interests to show in About widget
 interests:
-  - Hardware Design
+  - Hardware (FPGA, ASIC) Design
   - Cryptography
-  - Quantum Computer Security
+  - Fully Homomorphic Encryption
+  - Secure Hardware for AI and AI for Hardware 
+  - Quantum Computer Cybersecurity
+
+# Note shown below the interests list
+interests_note: Check out my [research directions](/research-directions/) for my ongoing work.
 
 # Education to show in About widget
 education:
@@ -36,15 +41,14 @@ education:
     - course: PhD in Electrical Engineering
       institution: Yale University
       year: 2025
-    - course: MS in Electrical Engineering
-      institution: Yale University
-      year: 2024
-    - course: MPhil in Electrical Engineering
-      institution: Yale University
-      year: 2024
+      thesis_url: https://www.proquest.com/docview/3299347889
+      en_route:
+        - MS in Electrical Engineering, 2024
+        - MPhil in Electrical Engineering, 2024
     - course: MS in Computer Engineering
       institution: George Mason University
       year: 2016
+      thesis_url: https://doi.org/10.13021/MARS/4875
     - course: BTech in Electronics and Communication Engineering
       institution: Jawaharlal Nehru Technological University
       year: 2014
@@ -96,16 +100,17 @@ email: 'sanjay.deshpande1@northwestern.edu'
 highlight_name: true
 ---
 
-Hi, I’m Sanjay Deshpande — a researcher working at the intersection of cryptography, hardware security, and quantum computing.
+Hi, I'm Sanjay, a computer scientist and engineer working across hardware and software design, cryptography, and quantum computing.
 {style="text-align: justify;"}
 
-I am a postdoctoral scholar at Northwestern University. My current research is focussed on exploring efficient hardware architectures for post-quantum cryptographic (PQC) algorithms and fully homomorphic encryption schemes, evaluating their side-channel resistance, and contributing to PQC standardization efforts. I recently completed my Ph.D. in Electrical Engineering at Yale University, where I focused on secure and efficient hardware implementations of PQC algorithms.  
+I'm a postdoctoral scholar at [Northwestern University](https://www.northwestern.edu/), working with [Prof. Jakub Szefer](https://caslab.io/jakub/). 
+***My research focuses on securing computing systems for the quantum and AI era.***
 {style="text-align: justify;"}
 
-Beyond cryptographic hardware design, I’m also interested in quantum computer security — studying how emerging quantum systems can be attacked and how to defend them at the hardware and architectural levels.
+Before joining Northwestern, I completed my Ph.D. in Electrical Engineering at [Yale University](https://www.yale.edu/). My [doctoral research](https://www.proquest.com/docview/3299347889) focused on hardware design for post-quantum cryptography and quantum computer cybersecurity.
 {style="text-align: justify;"}
 
 This site shares my research, publications, and open-source projects. Thanks for stopping by — feel free to reach out if you're working in this space or just curious!
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;} -->
 
 

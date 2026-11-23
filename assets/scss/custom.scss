@@ -255,3 +255,23 @@ a.rd-hub:hover {
   font-weight: 700;
   color: var(--rd);
 }
+
+.interests-note {
+  margin-top: 0.75rem;
+  font-size: 0.9em;
+}
+
+.ul-edu .course-en-route {
+  font-size: 0.85em;
+  margin: 0;
+  line-height: 1.4;
+}
+
+#relevant-publications + ol {
+  font-size: 0.85em;
+  line-height: 1.45;
+}
+
+#relevant-publications + ol li {
+  margin-bottom: 0.4rem;
+}
