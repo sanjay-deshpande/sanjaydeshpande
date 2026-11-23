@@ -1,0 +1,44 @@
+{{ $base := "/research-directions/" | relURL }}
+{{ $aims := slice
+  (dict "n" "1" "part" "1" "slug" "aim1-side-channel-secure-pqc" "title" "Side-Channel-Secure Post-Quantum Cryptography"
+        "s" "Side-channel evaluation of standardized PQC on FPGAs and microcontrollers"
+        "m" "New side-channel countermeasures; open-source protected PQC library"
+        "l" "Evaluation methodology informing standards and future schemes")
+  (dict "n" "2" "part" "1" "slug" "aim2-hardware-for-ai" "title" "Hardware for AI and AI for Hardware, Built Securely"
+        "s" "Profiling AI workloads under FHE; side-channel leakage in AI-generated crypto designs"
+        "m" "Encrypted AI inference on an FPGA prototype; verifying AI-generated hardware"
+        "l" "Multi-chip FHE ASIC; security-aware AI-assisted design flows")
+  (dict "n" "3" "part" "2" "slug" "aim3-quantum-telemetry" "title" "Trustworthy Telemetry for Quantum Computers and Networks"
+        "s" "Attested telemetry on quantum controllers via the pulse-integrity engine"
+        "m" "Verifiable reports from quantum network nodes"
+        "l" "Trust infrastructure for quantum clouds and the quantum internet")
+  (dict "n" "4" "part" "2" "slug" "aim4-fault-tolerant-qc" "title" "Securing Fault-Tolerant Quantum Computers from the Design Stage"
+        "s" "Threat model; power and timing leakage of FPGA decoders"
+        "m" "Fault injection on decoders; how codes and layout shape leakage"
+        "l" "Secure-by-design fault-tolerant architectures")
+}}
+
+<div class="col-12">
+<figure class="rd-fig">
+  <div class="rd-grid">
+    <div class="rd-part rd-part-1">
+      <div class="rd-part-title">Classical Security</div>
+      {{ range where $aims "part" "1" }}{{ partial "research_aim.html" (dict "a" . "base" $base) }}{{ end }}
+    </div>
+
+    <a class="rd-hub" href="{{ $base }}">
+      <img src="{{ "/media/research/building-security-in.png" | relURL }}" alt="Building Security In for the Quantum Era">
+    </a>
+
+    <div class="rd-part rd-part-2">
+      <div class="rd-part-title">Quantum Computer Cybersecurity</div>
+      {{ range where $aims "part" "2" }}{{ partial "research_aim.html" (dict "a" . "base" $base) }}{{ end }}
+    </div>
+  </div>
+
+  <figcaption>
+    <a href="{{ $base }}">Explore all four research directions &rarr;</a>
+  </figcaption>
+</figure>
+</div>
+

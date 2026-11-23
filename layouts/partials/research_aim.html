@@ -1,0 +1,9 @@
+{{ $a := .a }}
+<a class="rd-aim" href="{{ .base }}{{ $a.slug }}/">
+  <div class="rd-aim-head">{{ $a.title }}</div>
+  <ol class="rd-terms">
+    <li>{{ $a.s }}</li>
+    <li>{{ $a.m }}</li>
+    <li>{{ $a.l }}</li>
+  </ol>
+</a>

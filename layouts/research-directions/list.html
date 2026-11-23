@@ -1,0 +1,25 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+    <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  {{ $groups := slice
+    (dict "key" "classical" "title" "Classical Security")
+    (dict "key" "quantum" "title" "Quantum Computer Cybersecurity")
+  }}
+  {{ range $groups }}
+    {{ $items := where $.Pages "Params.group" .key }}
+    {{ if $items }}
+      <h2 class="rd-list-heading">{{ .title }}</h2>
+      {{ range $index, $item := $items }}
+        {{ partial "functions/render_view" (dict "page" $ "item" $item "view" "compact" "index" $index) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>
+
+{{- end -}}
